@@ -1,0 +1,283 @@
+/*define style for optenhance settings*/
+#ptnns-settings-form {
+	display:none;
+}
+
+#ptnns-settings-form h2 {
+    margin: 30px 0 10px 0;
+	font-size: 20px;
+}
+
+#ptnns-settings-form .form-table th {
+	padding: 15px 10px 10px 0;
+}
+
+#ptnns-settings-form .ptnns-section-comment {
+	font-size:14px;
+}
+
+#ptnns-settings-form h2:not(:first-of-type) {
+	padding-top: 40px;
+	border-top: 1px solid #dddddd	
+}
+
+#ptnns-settings-form h2:first-of-type {
+	margin-top:40px;
+}
+
+#ptnns-settings-form .dashicons {
+	margin-right:10px;
+}
+
+#ptnns-settings-form .submit {
+	border-top: 1px solid #cccccc;
+	margin-top:50px;
+	padding-top: 50px;
+}
+
+/*define colour for offline notice into admin bar*/
+#wpadminbar .quicklinks #wp-admin-bar-ptnns-offline-notice a {
+	color:yellow;
+}
+
+/*set description meta box width*/
+.ptnns-description, .ptnns-title {
+	width:100%
+}
+
+/*hide elements that will be conditionally displayed through javascript*/
+.ptnns-splash-type, 
+.ptnns-splash-image, 
+.ptnns-splash-id, 
+.ptnns-splash-login,
+.ptnns-splash-retry-after,
+.ptnns-alternative-social-image, 
+.ptnns-custom-404-id, 
+.ptnns-image-size,
+.ptnns-skip-gif,
+.ptnns-jpeg-quality,
+.ptnns-rebuild-thumbnails,
+#ptnns-splash-image-remove-button, 
+#ptnns-alternative-social-image-remove-button,
+.ptnns-smtp-encryption,
+.ptnns-smtp-port,
+.ptnns-smtp-server,
+.ptnns-smtp-password,
+.ptnns-smtp-address,
+.ptnns-smtp-authentication,
+.ptnns-smtp-test,
+.ptnns-smtp-test-address,
+.ptnns-login-attempts,
+.ptnns-login-investigation,
+.ptnns-login-lock,
+.ptnns-login-warn,
+.ptnns-lock-down-message,
+.ptnns-lock-user-notification,
+.ptnns-ban-message,
+.ptnns-media-cache,
+.ptnns-script-cache,
+.ptnns-code-cache,
+.ptnns-activation-in-progress-message,
+.ptnns-activation-completed-message,
+.ptnns-activation-failed-message,
+.ptnns-activation-error-message,
+.ptnns-deactivation-in-progress-message,
+.ptnns-deactivation-completed-message,
+.ptnns-deactivation-failed-message,
+.ptnns-deactivation-error-message {
+	display: none;
+}
+
+/*post and page custom column with content*/
+/*th#pttns_has_description {
+    width: 25%;
+}*/
+
+#ptnns-settings-form .form-table .button {
+	margin: 0 0 0 25px;
+}
+
+#ptnns-settings-form .form-table #ptnns-deactivate-button {
+	margin:0;
+}
+
+#ptnns-settings-form .form-table {
+	width:98%;
+	margin: 35px 2% 0 2%;
+}
+
+#ptnns-settings-form .form-table small {
+	font-size:12px;	
+}
+
+#ptnns-settings-form .form-table label {
+	margin-right: 25px;
+}
+
+/*draw ptnns-switches instead of checkbox*/
+input.ptnns-switch:empty{
+	display:none;
+}
+ 
+input.ptnns-switch:empty ~ label:before, input.ptnns-switch:empty ~ label:after {
+	position: absolute;
+	content: ' ';
+	width: 35px;
+	height: 20px;
+	background-color: #c4c4c4;
+	border-radius: 15px;
+	-webkit-transition: all 200ms ease-in;
+	transition: all 200ms ease-in;
+}
+
+input.ptnns-switch:empty ~ label:after {
+	width: 16px;
+	height: 16px;
+	background-color: #ffffff;
+	border-radius: 50%;
+	margin:2px 0 0 -2px;
+}
+ 
+input.ptnns-switch:checked ~ label:before{
+	background-color: #007cba;
+}
+ 
+input.ptnns-switch:checked ~ label:after{
+	margin: 2px 0 0 13px;
+}
+
+/*hide thumbnails rebuild messages by default, they will be displayed with javascript*/
+.ptnns-rebuild-completed-message, 
+.ptnns-rebuild-in-progress-step, 
+.ptnns-rebuild-no-entry-message, 
+.ptnns-rebuild-in-progress-message, 
+.ptnns-rebuild-calculating-message,
+.ptnns-test-in-progress-message,
+.ptnns-test-completed-message,
+.ptnns-test-failed-message {
+	display:none;
+}
+
+.ptnns-optenhanse-logo .ptnns-homepage-action-button {
+	display:inline-block; 
+	width:100px; 
+	text-align:center; 
+	margin-top:25px;
+}
+
+
+.ptnns-homepage-pro-button {
+	display:inline-block; 
+	width:175px; 
+	text-align:center; 
+}
+
+.ptnns-homepage-pro-button-text {
+	font-weight:bold;
+}
+
+#ptnns-settings-form .form-table .ptnns-pro-feature th a {
+	margin:5px 0; 
+	display: table-caption;
+	font-weight:normal;
+}
+
+#ptnns-settings-form .form-table .ptnns-pro-feature th a img {
+	height:20px;
+	display:inline-block;
+}
+
+.ptnns-optenhanse-logo {
+	padding:50px 2% 25px 2%;
+}
+
+.ptnns-optenhanse-logo img {
+	width:150px;
+}
+
+.ptnns-pro-feature-container {
+	position:fixed;
+	background:#000000;
+	width:100%;
+	height:100%;
+	margin:0;
+	padding:0;
+	opacity:0.25;
+	top:0;
+	left:0;
+	display:none;
+}
+
+.ptnns-pro-feature-popup {
+	position: fixed;
+    border-radius: 3px;
+    background: #ffffff;
+    width: 200px;
+    height: 350px;
+    padding: 25px 50px;
+    left: calc(50% - 160px);
+    top: calc(50% - 210px);
+    display: none;
+    text-align: center;
+    border: 10px solid #f2f2f2;
+}
+
+.ptnns-pro-feature-popup h2 {
+	margin: 15px 0 25px 0;
+}
+
+.ptnns-pro-feature-popup img {
+	width: 150px;
+}
+
+.ptnns-history-entries {
+	margin-left:15px;
+	font-weight:bold;
+}
+
+
+
+@media screen and (max-width: 1300px) {
+	
+	#ptnns-settings-form .form-table {
+		width:90%;
+		margin: 25px 5% 0 5%;
+	}
+		
+	#ptnns-settings-form .form-table tr p {
+		padding-top: 5px;
+	}
+	
+	#ptnns-settings-form .form-table .button {
+		margin: 15px 0;
+		display: inline-block;
+	}
+	
+	#ptnns-splash-image, #ptnns-alternative-social-image, #ptnns-license-token{
+		width:100%
+	}
+	
+	#ptnns-settings-form .form-table input[type=radio] {
+		display: block;
+		margin: 10px 0 5px;
+	}
+
+	.ptnns-optenhanse-logo {
+		padding:50px 5% 25px 5%;
+	}
+
+	.ptnns-optenhanse-logo img {
+		width:150px;
+	}
+	
+	.ptnns-history-entries {
+		margin-top:15px;
+		margin-left:0;
+		display:block
+	}
+	
+	.nav-tab {
+		padding: 5px 7px;
+	}
+	
+}

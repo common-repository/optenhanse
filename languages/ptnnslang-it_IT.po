@@ -1,0 +1,2562 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Italiano 1.0\n"
+"POT-Creation-Date: 2021-01-16 13:19+0100\n"
+"PO-Revision-Date: 2021-01-16 13:20+0100\n"
+"Last-Translator: \n"
+"Language-Team: Christian Gatti <sgarlarud@gmail.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;esc\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: admin/includes/ptnns-enhance/ptnns_login.php:120
+#: public/includes/ptnns-secure/ptnns_check_login.php:68
+#: public/includes/ptnns-secure/ptnns_check_login.php:74
+#: public/includes/ptnns-secure/ptnns_check_login.php:80
+msgid "Be careful"
+msgstr "Fai attenzione"
+
+#: admin/includes/ptnns-enhance/ptnns_login.php:120
+#: public/includes/ptnns-secure/ptnns_check_login.php:68
+#: public/includes/ptnns-secure/ptnns_check_login.php:74
+#: public/includes/ptnns-secure/ptnns_check_login.php:80
+msgid "you have only"
+msgstr "hai solo"
+
+#: admin/includes/ptnns-enhance/ptnns_login.php:120
+#: public/includes/ptnns-secure/ptnns_check_login.php:68
+#: public/includes/ptnns-secure/ptnns_check_login.php:74
+#: public/includes/ptnns-secure/ptnns_check_login.php:80
+msgid "attempts left"
+msgstr "tentativi a disposizione"
+
+#: admin/includes/ptnns-enhance/ptnns_login.php:174
+msgid "Logged in, please wait"
+msgstr "Autenticazione in corso, attendi per favore"
+
+#: admin/includes/ptnns-enhance/ptnns_splash_page_node.php:13
+msgid "activated"
+msgstr "attivato"
+
+#: admin/includes/ptnns-optimize/ptnns_description_tag.php:15
+msgid "Description Content"
+msgstr "Contenuto della descrizione"
+
+#: admin/includes/ptnns-optimize/ptnns_description_tag.php:49
+msgid "These 160 chars represent the content of your meta description tag"
+msgstr ""
+"Questi 160 caratteri rappresentano il contenuto del tuo tag meta description"
+
+#: admin/includes/ptnns-optimize/ptnns_no_index.php:15
+msgid "No Index"
+msgstr "No Index"
+
+#: admin/includes/ptnns-optimize/ptnns_no_index.php:52
+msgid "Flag this checkbox if you want that add \"noindex\" meta to this page"
+msgstr ""
+"Spunta questa checkbox se vuoi che venga aggiunto il meta \"noindex\" a "
+"questa pagina"
+
+#: admin/includes/ptnns-optimize/ptnns_title_tag.php:15
+#: includes/ptnns_columns_functions.php:128
+msgid "Title"
+msgstr "Titolo"
+
+#: admin/includes/ptnns-optimize/ptnns_title_tag.php:56
+msgid "These 70 chars represent the content of your title tag"
+msgstr "Questi 70 caratteri rappresentano il contenuto del tag title"
+
+#: admin/includes/ptnns-optimize/ptnns_title_tag.php:64
+msgid "Add"
+msgstr "Aggiungi"
+
+#: admin/includes/ptnns-optimize/ptnns_title_tag.php:64
+msgid "to the title"
+msgstr "al titolo"
+
+#: admin/includes/ptnns-optimize/ptnns_title_tag.php:64
+msgid "so that your page title becames"
+msgstr "in modo che il titolo della pagina diventi"
+
+#: admin/includes/ptnns-optimize/ptnns_title_tag.php:64
+msgid "your title"
+msgstr "il tuo titolo"
+
+#: admin/includes/ptnns-optimize/ptnns_title_tag.php:64
+msgid "your sitename"
+msgstr "il nome del tuo sito"
+
+#: admin/includes/ptnns-secure/ptnns_change_role_notification.php:21
+msgid "Role changed in"
+msgstr "Ruolo modificato in"
+
+#: admin/includes/ptnns-secure/ptnns_change_role_notification.php:22
+#: admin/includes/ptnns-secure/ptnns_delete_user_notification.php:19
+#: admin/includes/ptnns-secure/ptnns_register_user_notification.php:20
+msgid "A user, with user login"
+msgstr "Un visitatore, con nome utente"
+
+#: admin/includes/ptnns-secure/ptnns_change_role_notification.php:22
+msgid "has now"
+msgstr "ha ora"
+
+#: admin/includes/ptnns-secure/ptnns_change_role_notification.php:22
+msgid "role"
+msgstr "ruolo"
+
+#: admin/includes/ptnns-secure/ptnns_change_role_notification.php:22
+msgid "in"
+msgstr "in"
+
+#: admin/includes/ptnns-secure/ptnns_delete_user_notification.php:18
+msgid "User deleted in"
+msgstr "Utente cancellato in"
+
+#: admin/includes/ptnns-secure/ptnns_delete_user_notification.php:19
+msgid "was just deleted from"
+msgstr "è stato appena cancellato da"
+
+#: admin/includes/ptnns-secure/ptnns_register_user_notification.php:19
+msgid "User registered to"
+msgstr "Utente registrato a"
+
+#: admin/includes/ptnns-secure/ptnns_register_user_notification.php:20
+msgid "has just registered to"
+msgstr "si è appena registrato a"
+
+#: admin/includes/ptnns-secure/ptnns_success_login_notification.php:15
+msgid "Successful login to"
+msgstr "Accesso riuscito a"
+
+#: admin/includes/ptnns-secure/ptnns_success_login_notification.php:16
+msgid "A visitor, with user login"
+msgstr "Un visitatore, con nome utente"
+
+#: admin/includes/ptnns-secure/ptnns_success_login_notification.php:16
+msgid "logged in successfully to"
+msgstr "ha effettuato l'accesso a"
+
+#: admin/ptnns_options.php:71
+msgid "Setup"
+msgstr "Impostazioni"
+
+#: admin/ptnns_options.php:137
+msgid "Optimize"
+msgstr "Ottimizza"
+
+#: admin/ptnns_options.php:138
+msgid "Enhance"
+msgstr "Migliora"
+
+#: admin/ptnns_options.php:139
+msgid "Secure"
+msgstr "Proteggi"
+
+#: admin/ptnns_options_enhance.php:17
+msgid "Block Editor"
+msgstr "Editor a Blocchi"
+
+#: admin/ptnns_options_enhance.php:25
+msgid "Deactivate block editor and switch back to classic editor"
+msgstr "Disattiva l'editor a blocchi e torna all'editor classico"
+
+#: admin/ptnns_options_enhance.php:36
+msgid "Deactivate block editor"
+msgstr "Disattiva l'editor a blocchi"
+
+#: admin/ptnns_options_enhance.php:70
+msgid ""
+"If switched on, classic editor will be displayed instead of block editor or "
+"Gutenberg"
+msgstr ""
+"Se l'opzione è attivata, l'editor classico verrà visualizzato anziché "
+"l'editor a blocchi o Gutenberg"
+
+#: admin/ptnns_options_enhance.php:84
+msgid "Dashboard Notices"
+msgstr "Avvisi dashboard"
+
+#: admin/ptnns_options_enhance.php:92
+msgid "Prevent notices to be displayed into your admin dashboard"
+msgstr ""
+"Impedisci la visualizzazione degli avvisi nel dashboard di amministrazione"
+
+#: admin/ptnns_options_enhance.php:103
+msgid "Hide dashboard notices"
+msgstr "Nascondi gli avvisi nella dashboard"
+
+#: admin/ptnns_options_enhance.php:137
+msgid ""
+"If switched on, no notice will be shown anymore (even important notices will "
+"be hidden)"
+msgstr ""
+"Se attivata, non verrà più visualizzato alcun avviso (anche gli avvisi "
+"importanti saranno nascosti)"
+
+#: admin/ptnns_options_enhance.php:151
+msgid "Splash Page"
+msgstr "Splash Page"
+
+#: admin/ptnns_options_enhance.php:159
+msgid ""
+"Hide your website to not logged users, display a full screen image or the "
+"content of a page (with no header and footer) and let users to authenticate "
+"through an overlaid ajax login form"
+msgstr ""
+"Nascondi il tuo sito Web agli utenti non autenticati, visualizza un'immagine "
+"a schermo intero o il contenuto di una pagina (senza intestazione e piè di "
+"pagina) e consenti agli utenti di autenticarsi tramite un form di accesso "
+"ajax in sovraimpressione"
+
+#: admin/ptnns_options_enhance.php:170
+msgid "Enable Splash Page"
+msgstr "Attiva la Splash Page"
+
+#: admin/ptnns_options_enhance.php:199
+msgid ""
+"If switched on, a splash page will be displayed instead of your website for "
+"maintenance purpose or just to hide your site to not logged users"
+msgstr ""
+"Se l'opzione è attivata, una splash page verrà visualizzata al posto del tuo "
+"sito web in caso di manutenzione o solamente per nascondere il tuo sito a "
+"visitatori non autenticati"
+
+#: admin/ptnns_options_enhance.php:211
+msgid "Choose what to display"
+msgstr "Seleziona cosa mostrare"
+
+#: admin/ptnns_options_enhance.php:244
+msgid "a full screen image (cover)"
+msgstr "un'immagine a schermo intero (copertina)"
+
+#: admin/ptnns_options_enhance.php:247
+msgid "the content of a page (with no header and footer)"
+msgstr "il contenuto di una pagina (senza intestazione e piè di pagina)"
+
+#: admin/ptnns_options_enhance.php:259
+msgid "Choose an image"
+msgstr "Seleziona un'immagine"
+
+#: admin/ptnns_options_enhance.php:283
+msgid "Image not found: press Save Settings to empty or choose another image"
+msgstr ""
+"Immagine non trovata: premi Salva impostazioni per svuotare o scegli "
+"un'altra immagine"
+
+#: admin/ptnns_options_enhance.php:298
+msgid "Choose form media library"
+msgstr "Seleziona un'immagine dalla galleria"
+
+#: admin/ptnns_options_enhance.php:299
+msgid "Remove"
+msgstr "Rimuovi"
+
+#: admin/ptnns_options_enhance.php:300
+msgid ""
+"Select an image from the media gallery, leave blank for displaying an empty "
+"page with the login form only"
+msgstr ""
+"Seleziona un'immagine dalla raccolta multimediale, lascia vuoto per "
+"visualizzare una pagina bianca con solo il modulo di accesso"
+
+#: admin/ptnns_options_enhance.php:313 admin/ptnns_options_enhance.php:667
+msgid "Choose a page"
+msgstr "Scegli una pagina"
+
+#: admin/ptnns_options_enhance.php:347
+msgid ""
+"Select the page whose content, with no header or footer, will be shown with "
+"an overlaid ajax login form"
+msgstr ""
+"Selezionare la pagina il cui contenuto, senza intestazione o piè di pagina, "
+"verrà visualizzato con un modulo di accesso ajax sovrapposto"
+
+#: admin/ptnns_options_enhance.php:347
+msgid "use a draft page to prevent to be browsed by logged users"
+msgstr ""
+"utilizza una bozza di pagina per impedire che venga visualizzata dagli "
+"utenti registrati"
+
+#: admin/ptnns_options_enhance.php:360
+msgid "Hide WordPress login page"
+msgstr "Nascondi la pagina di accesso di WordPress"
+
+#: admin/ptnns_options_enhance.php:389
+msgid ""
+"If switched on, splash page will be also displayed intead of WordPress login "
+"page, so that users can authenticate only through the overlaid ajax login "
+"form"
+msgstr ""
+"Se l'opzione è attivata, la splash page verrà visualizzata anche al posto "
+"della pagina di autenticazione di WordPress, in modo tale che gli utenti "
+"possano effettuare l'accesso unicamente tramite il form di accesso ajax in "
+"sovraimpressione"
+
+#: admin/ptnns_options_enhance.php:401
+msgid "Maintenance Mode"
+msgstr "Modalità Manutenzione"
+
+#: admin/ptnns_options_enhance.php:430
+msgid "If switched on, an HTTP response"
+msgstr "Se l'opzione è attivata, una risposta HTTP"
+
+#: admin/ptnns_options_enhance.php:430
+msgid ""
+"will be set, so that users and search engines will know that splash page is "
+"for maintenance purpose"
+msgstr ""
+"verrà impostata, in modo che gli utenti e i motori di ricerca sappiano che "
+"la splash page è a scopo di manutenzione"
+
+#: admin/ptnns_options_enhance.php:445
+msgid "Maintenance expected duration"
+msgstr "Durata prevista della manutenzione"
+
+#: admin/ptnns_options_enhance.php:469
+msgid "Undefined duration"
+msgstr "Durata indefinita"
+
+#: admin/ptnns_options_enhance.php:476 admin/ptnns_options_secure.php:186
+#: admin/ptnns_options_secure.php:353
+msgid "minutes"
+msgstr "minuti"
+
+#: admin/ptnns_options_enhance.php:501 admin/ptnns_options_optimize.php:524
+#: admin/ptnns_options_optimize.php:699 admin/ptnns_options_optimize.php:874
+#: admin/ptnns_options_secure.php:207 admin/ptnns_options_secure.php:374
+msgid "hour"
+msgstr "ora"
+
+#: admin/ptnns_options_enhance.php:505 admin/ptnns_options_optimize.php:528
+#: admin/ptnns_options_optimize.php:703 admin/ptnns_options_optimize.php:878
+#: admin/ptnns_options_secure.php:211 admin/ptnns_options_secure.php:378
+msgid "hours"
+msgstr "ore"
+
+#: admin/ptnns_options_enhance.php:533 admin/ptnns_options_optimize.php:556
+#: admin/ptnns_options_optimize.php:730 admin/ptnns_options_optimize.php:913
+#: admin/ptnns_options_secure.php:237 admin/ptnns_options_secure.php:404
+msgid "day"
+msgstr "giorno"
+
+#: admin/ptnns_options_enhance.php:537 admin/ptnns_options_optimize.php:560
+#: admin/ptnns_options_optimize.php:734 admin/ptnns_options_optimize.php:917
+#: admin/ptnns_options_secure.php:241 admin/ptnns_options_secure.php:408
+msgid "days"
+msgstr "giorni"
+
+#: admin/ptnns_options_enhance.php:564 admin/ptnns_options_optimize.php:587
+#: admin/ptnns_options_optimize.php:761 admin/ptnns_options_optimize.php:945
+msgid "week"
+msgstr "settimana"
+
+#: admin/ptnns_options_enhance.php:568 admin/ptnns_options_optimize.php:591
+#: admin/ptnns_options_optimize.php:765 admin/ptnns_options_optimize.php:949
+msgid "weeks"
+msgstr "settimane"
+
+#: admin/ptnns_options_enhance.php:594
+msgid "The duration, if defined, will be used to set an HTTP response"
+msgstr ""
+"La durata, se definita, verrà utilizzata per impostare una risposta HTTP"
+
+#: admin/ptnns_options_enhance.php:594
+msgid ""
+"so that users and search engines will know how long the maintenance mode "
+"will last"
+msgstr ""
+"in modo che gli utenti e i motori di ricerca sappiano quanto durerà la "
+"modalità di manutenzione"
+
+#: admin/ptnns_options_enhance.php:606
+msgid "Custom 404 Page"
+msgstr "Pagina 404 Personalizzata"
+
+#: admin/ptnns_options_enhance.php:614
+msgid ""
+"Redirect visitors to a custom 404 page, instead of displaying your theme 404 "
+"default page"
+msgstr ""
+"Reindirizza i visitatori a una pagina 404 personalizzata, invece di "
+"visualizzare la pagina 404 predefinita del tuo tema"
+
+#: admin/ptnns_options_enhance.php:626
+msgid "Enable custom 404"
+msgstr "Abilita la pagina 404 personalizzata"
+
+#: admin/ptnns_options_enhance.php:655
+msgid ""
+"If switched on, visitors will be redirected to the below selected custom 404 "
+"page, instead of showing them the default 404 page provided by your theme"
+msgstr ""
+"Se l'opzione è attivata, i visitatori verranno reindirizzati alla pagina 404 "
+"personalizzata selezionata di seguito, invece di mostrare loro la pagina "
+"predefinita 404 fornita dal tema"
+
+#: admin/ptnns_options_enhance.php:700
+msgid ""
+"Define where to redirect visitors when the requested page does not exist"
+msgstr ""
+"Definisci dove reindirizzare i visitatori quando la pagina richiesta non "
+"esiste"
+
+#: admin/ptnns_options_enhance.php:713
+msgid "Image Resolution and JPEG Compression"
+msgstr "Risoluzione immagini e compressione JPEG"
+
+#: admin/ptnns_options_enhance.php:721
+msgid ""
+"Set the image resolution and the JPEG quality compression in order to resize "
+"each image you will upload and to recompress JPEG images, so that you do not "
+"need to worry of image dimensions any more"
+msgstr ""
+"Imposta la risoluzione dell'immagine e la compressione della qualità JPEG "
+"per ridimensionare ogni immagine che verrà caricata e ricomprimere le "
+"immagini JPEG, in modo da non doversi più preoccupare delle dimensioni "
+"dell'immagine"
+
+#: admin/ptnns_options_enhance.php:732
+msgid "Enable image resolution and JPEG Compression"
+msgstr "Abilitare la risoluzione dell'immagine e la compressione JPEG"
+
+#: admin/ptnns_options_enhance.php:744 admin/ptnns_options_enhance.php:770
+#: admin/ptnns_options_enhance.php:796 admin/ptnns_options_enhance.php:822
+#: admin/ptnns_options_enhance.php:848 admin/ptnns_options_enhance.php:892
+#: admin/ptnns_options_enhance.php:918 admin/ptnns_options_enhance.php:944
+#: admin/ptnns_options_enhance.php:970 admin/ptnns_options_enhance.php:996
+#: admin/ptnns_options_enhance.php:1022 admin/ptnns_options_enhance.php:1048
+#: admin/ptnns_options_enhance.php:1074 admin/ptnns_options_enhance.php:1099
+#: admin/ptnns_options_enhance.php:1125 admin/ptnns_options_enhance.php:1150
+#: admin/ptnns_options_optimize.php:50 admin/ptnns_options_optimize.php:96
+#: admin/ptnns_options_optimize.php:142 admin/ptnns_options_optimize.php:186
+#: admin/ptnns_options_optimize.php:211 admin/ptnns_options_optimize.php:236
+#: admin/ptnns_options_optimize.php:281 admin/ptnns_options_optimize.php:327
+#: admin/ptnns_options_optimize.php:353
+msgid ""
+"This function is no more available, please download and install our new "
+"plugin"
+msgstr ""
+"Questa funzione non è più disponibile, per favore scarica e installa il "
+"nostro nuovo plugin"
+
+#: admin/ptnns_options_enhance.php:758
+msgid "Choose resolution"
+msgstr "Scegli risoluzione"
+
+#: admin/ptnns_options_enhance.php:784
+msgid "Skip GIF images from resizing"
+msgstr "Escludi le immagini GIF dal ridimensionamento"
+
+#: admin/ptnns_options_enhance.php:810
+msgid "Choose JPEG compression"
+msgstr "Scegliere la compressione JPEG"
+
+#: admin/ptnns_options_enhance.php:836
+msgid "Bulk rebuild and compress"
+msgstr "Ricostruzione e compressione completa"
+
+#: admin/ptnns_options_enhance.php:861
+msgid "Send mail through SMTP"
+msgstr "Invia posta tramite SMTP"
+
+#: admin/ptnns_options_enhance.php:869
+msgid ""
+"Use your SMTP to send email messages from your website, to prevent they can "
+"be forwarded to spam or junk mail"
+msgstr ""
+"Utilizza il tuo SMTP per inviare messaggi di posta elettronica dal tuo sito "
+"Web, per evitare che possano essere inoltrati a posta indesiderata o "
+"indesiderata"
+
+#: admin/ptnns_options_enhance.php:880
+msgid "Enable SMTP server"
+msgstr "Abilita il server SMTP"
+
+#: admin/ptnns_options_enhance.php:906
+msgid "Define encryption"
+msgstr "Definisci protocollo di crittografia"
+
+#: admin/ptnns_options_enhance.php:932
+msgid "Define port"
+msgstr "Definisci la porta"
+
+#: admin/ptnns_options_enhance.php:958
+msgid "Define server address"
+msgstr "Definisci l'indirizzo del server"
+
+#: admin/ptnns_options_enhance.php:984
+msgid "Define from address"
+msgstr "Definisci l'indirizzo mittente"
+
+#: admin/ptnns_options_enhance.php:1010
+msgid "Define from name"
+msgstr "Definisci il nome del mittente"
+
+#: admin/ptnns_options_enhance.php:1036
+msgid "Define authentication"
+msgstr "Definisci l'autenticazione"
+
+#: admin/ptnns_options_enhance.php:1062
+msgid "Define authentication address"
+msgstr "Definisci l'indirizzo di autenticazione"
+
+#: admin/ptnns_options_enhance.php:1087
+msgid "Define authentication password"
+msgstr "Definisci la password di autenticazione"
+
+#: admin/ptnns_options_enhance.php:1113
+msgid "SMTP test"
+msgstr "Test SMTP"
+
+#: admin/ptnns_options_enhance.php:1138
+msgid "SMTP test recipient"
+msgstr "Destinatario del test SMTP"
+
+#: admin/ptnns_options_optenhanse.php:28
+msgid "Get Optenhanse PRO"
+msgstr "Ottieni Optenhanse PRO"
+
+#: admin/ptnns_options_optenhanse.php:45
+msgid "Optenhanse PRO"
+msgstr "Optenhanse PRO"
+
+#: admin/ptnns_options_optenhanse.php:59
+msgid "PRO features are activated"
+msgstr "Le funzioni PRO sono attivate"
+
+#: admin/ptnns_options_optenhanse.php:63
+msgid ""
+"In order to activate PRO features, fill in the license token provided when "
+"you bought Optenhanse PRO and press \"Activate\" button"
+msgstr ""
+"Per attivare le funzioni PRO, inserisci il token di licenza fornito al "
+"momento dell'acquisto di Optenhanse PRO e premi il pulsante \"Attiva\""
+
+#: admin/ptnns_options_optenhanse.php:77
+msgid "Optenhanse PRO license token"
+msgstr "Token di licenza Optenhanse PRO"
+
+#: admin/ptnns_options_optenhanse.php:114
+msgid "Enter your token"
+msgstr "Inserisci il tuo token"
+
+#: admin/ptnns_options_optenhanse.php:121
+msgid "Activate"
+msgstr "Attiva"
+
+#: admin/ptnns_options_optenhanse.php:122
+msgid "Enter Optenhanse PRO token and press \"Activate\" button"
+msgstr "Inserisci il token Optenhanse PRO e premi il pulsante \"Attiva\""
+
+#: admin/ptnns_options_optenhanse.php:123
+msgid "Activation in progress, please wait"
+msgstr "Attivazione in corso, attendere"
+
+#: admin/ptnns_options_optenhanse.php:124
+msgid "Activation completed successfully"
+msgstr "Attivazione completata"
+
+#: admin/ptnns_options_optenhanse.php:125
+msgid "Activation failed, check token"
+msgstr "Attivazione non riuscita, controllare il token"
+
+#: admin/ptnns_options_optenhanse.php:131
+msgid "Deactivate"
+msgstr "Disattiva"
+
+#: admin/ptnns_options_optenhanse.php:132
+msgid ""
+"In order to use your Optenhanse PRO license in another website, press "
+"\"Deactivate\" button"
+msgstr ""
+"Per utilizzare la licenza Optenhanse PRO in un altro sito Web, premi il "
+"pulsante \"Disattiva\""
+
+#: admin/ptnns_options_optenhanse.php:133
+msgid "Deactivation in progress, please wait"
+msgstr "Disattivazione in corso, attendi per favore"
+
+#: admin/ptnns_options_optenhanse.php:134
+msgid "Deactivation completed successfully"
+msgstr "Disattivazione completata"
+
+#: admin/ptnns_options_optenhanse.php:135
+msgid "Deactivation failed, check token"
+msgstr "Disattivazione non riuscita, token di controllo"
+
+#: admin/ptnns_options_optimize.php:18
+msgid "Title Tag"
+msgstr "Tag Titolo"
+
+#: admin/ptnns_options_optimize.php:27
+msgid ""
+"Add a title field to pages and posts editor to replace title tag content and "
+"to take control of the title displayed by Search Engines"
+msgstr ""
+"Aggiungi un campo titolo all'editor di pagine e post per sostituire il "
+"contenuto dei tag del titolo e prendere il controllo del titolo visualizzato "
+"dai motori di ricerca"
+
+#: admin/ptnns_options_optimize.php:38
+msgid "Enable title"
+msgstr "Abilita titolo"
+
+#: admin/ptnns_options_optimize.php:64
+msgid "Description Meta Tag"
+msgstr "Meta Tag Description"
+
+#: admin/ptnns_options_optimize.php:73
+msgid ""
+"Add a description field to pages and posts editor and add a description meta "
+"tag to HTML code, to take control of the excerpt that Search Engines display "
+"in search results"
+msgstr ""
+"Aggiungi un campo di descrizione all'editor di pagine e post e aggiungi un "
+"meta tag di descrizione al codice HTML, per assumere il controllo "
+"dell'estratto visualizzato dai motori di ricerca nei risultati di ricerca"
+
+#: admin/ptnns_options_optimize.php:84
+msgid "Enable description"
+msgstr "Abilita la Descrizione"
+
+#: admin/ptnns_options_optimize.php:110
+msgid "Allow No Index"
+msgstr "Abilita No Index"
+
+#: admin/ptnns_options_optimize.php:119
+msgid ""
+"Add a checkbox to pages and posts editor, add a \"noindex\" meta to page or "
+"post header where the checkbox is flagged and define content that should not "
+"be indexed by Search Engines"
+msgstr ""
+"Aggiungi una casella di controllo all'editor di pagine e post, aggiungi un "
+"meta \"noindex\" all'intestazione della pagina o del post in cui la casella "
+"di controllo è contrassegnata e definisci il contenuto che non deve essere "
+"indicizzato dai motori di ricerca"
+
+#: admin/ptnns_options_optimize.php:130
+msgid "Enable no index"
+msgstr "Abilita no index"
+
+#: admin/ptnns_options_optimize.php:155
+msgid "Social Media Sharing"
+msgstr "Condivisione Social Media"
+
+#: admin/ptnns_options_optimize.php:163
+msgid ""
+"When someone shares contents of your website, the correct title, description "
+"and image will be shown, thanks to the proper meta tags automatically added "
+"to HTML code"
+msgstr ""
+"Quando qualcuno condivide i contenuti del tuo sito web, verranno "
+"visualizzati il titolo, la descrizione e l'immagine corretti, grazie ai meta "
+"tag appropriati aggiunti automaticamente al codice HTML"
+
+#: admin/ptnns_options_optimize.php:174
+msgid "Facebook Opengraph"
+msgstr "Facebook Opengraph"
+
+#: admin/ptnns_options_optimize.php:199
+msgid "Twitter Card"
+msgstr "Twitter Card"
+
+#: admin/ptnns_options_optimize.php:224
+msgid "Alternative Social Image"
+msgstr "Immagine Social Alternativa"
+
+#: admin/ptnns_options_optimize.php:249
+msgid "Build Sitemap"
+msgstr "Crea la Sitemap"
+
+#: admin/ptnns_options_optimize.php:257
+msgid ""
+"Build a virtual sitemap.xml file, including pages, posts and custom post "
+"types set to public"
+msgstr ""
+"Crea un file sitemap.xml virtuale, che includa pagine, post e custom post "
+"impostati per essere pubblici"
+
+#: admin/ptnns_options_optimize.php:269
+msgid "Enable sitemap.xml"
+msgstr "Abilita sitemap.xml"
+
+#: admin/ptnns_options_optimize.php:295
+msgid "Automatically Fill Out Attachment Meta"
+msgstr "Compila Automaticamente i Meta degli Allegati"
+
+#: admin/ptnns_options_optimize.php:303
+msgid ""
+"Automatically fill out \"description\", \"caption\" and \"alt title\" every "
+"time you upload a media file, preventing the lack of tag \"alt\" and "
+"increasing substantially your SEO"
+msgstr ""
+"Compila automaticamente \"descrizione\", \"didascalia\" e \"titolo "
+"alternativo\" ogni volta che carichi un file multimediale, evitando la "
+"mancanza di tag \"alt\" e migliorando sostanzialmente il SEO"
+
+#: admin/ptnns_options_optimize.php:315
+msgid "Enable automatic meta"
+msgstr "Abilita i meta automatici"
+
+#: admin/ptnns_options_optimize.php:341
+msgid "Bulk meta rebuild"
+msgstr "Ricostruzione completa dei metadati"
+
+#: admin/ptnns_options_optimize.php:367
+msgid "Minify HTML Code"
+msgstr "Minifica codice HTML"
+
+#: admin/ptnns_options_optimize.php:375
+msgid "Minify HTML code on the fly"
+msgstr "Minifica codice HTML al volo"
+
+#: admin/ptnns_options_optimize.php:387
+msgid "Enable HTML minification"
+msgstr "Abilita minificazione HTML"
+
+#: admin/ptnns_options_optimize.php:416
+msgid ""
+"If switched on, all your website HTML code will be minificated on the fly"
+msgstr ""
+"Se l'opzione è attivata, tutto il codice HTML del tuo sito web verrà "
+"minificato al volo"
+
+#: admin/ptnns_options_optimize.php:430
+msgid "Browser Cache"
+msgstr "Cache del Browser"
+
+#: admin/ptnns_options_optimize.php:438
+msgid "Add browser cache rules via htaccess"
+msgstr "Aggiungi le regole della cache del browser tramite htaccess"
+
+#: admin/ptnns_options_optimize.php:450
+msgid "Enable browser cache"
+msgstr "Abilita la cache del browser"
+
+#: admin/ptnns_options_optimize.php:479
+msgid ""
+"If switched on, browser cache rules will be added to htaccess (it works only "
+"on Apache with mod_headers module installed)"
+msgstr ""
+"Se l'opzione è attivata, le regole della cache del browser verranno aggiunte "
+"a htaccess (funziona solo su Apache con il modulo mod_headers installato)"
+
+#: admin/ptnns_options_optimize.php:492
+msgid "Media cache duration"
+msgstr "Durata della cache multimediale"
+
+#: admin/ptnns_options_optimize.php:599 admin/ptnns_options_optimize.php:773
+#: admin/ptnns_options_optimize.php:886
+msgid "recommended"
+msgstr "consigliato"
+
+#: admin/ptnns_options_optimize.php:627 admin/ptnns_options_optimize.php:801
+#: admin/ptnns_options_optimize.php:976
+msgid "month"
+msgstr "mese"
+
+#: admin/ptnns_options_optimize.php:631 admin/ptnns_options_optimize.php:805
+#: admin/ptnns_options_optimize.php:980
+msgid "months"
+msgstr "mesi"
+
+#: admin/ptnns_options_optimize.php:654
+msgid "The defined duration will be used to cache media files"
+msgstr ""
+"La durata definita verrà utilizzata per memorizzare nella cache i file "
+"multimediali"
+
+#: admin/ptnns_options_optimize.php:667
+msgid "Script cache duration"
+msgstr "Durata della cache degli script"
+
+#: admin/ptnns_options_optimize.php:828
+msgid "The defined duration will be used to cache script files"
+msgstr ""
+"La durata definita verrà utilizzata per memorizzare nella cache i file di "
+"script"
+
+#: admin/ptnns_options_optimize.php:842
+msgid "Code cache duration"
+msgstr "Durata della cache del codice"
+
+#: admin/ptnns_options_optimize.php:1003
+msgid "The defined duration will be used to cache code files"
+msgstr ""
+"La durata definita verrà utilizzata per memorizzare nella cache i file del "
+"codice"
+
+#: admin/ptnns_options_secure.php:18
+msgid "Login Attempts Monitor"
+msgstr "Monitoraggio Tentativi di Accesso"
+
+#: admin/ptnns_options_secure.php:27
+msgid ""
+"Check login attempts and block failed login attempts exceeding the limits "
+"defined in this section"
+msgstr ""
+"Controlla i tentativi di accesso e blocca i tentativi di accesso non "
+"riusciti che superano i limiti definiti in questa sezione"
+
+#: admin/ptnns_options_secure.php:39
+msgid "Enable login attempts monitor"
+msgstr "Abilita il monitoraggio dei tentativi di accesso"
+
+#: admin/ptnns_options_secure.php:69
+msgid ""
+"If switched on, login attempts will be surveilled and failed login attempts "
+"will be treated as defined below"
+msgstr ""
+"Se l'opzione è attivata, i tentativi di accesso verranno sorvegliati e i "
+"tentativi di accesso non riusciti verranno considerati come stabilito qui "
+"sotto"
+
+#: admin/ptnns_options_secure.php:81
+msgid "Failed login attempts conceded"
+msgstr "Tentativi di accesso non riusciti concessi"
+
+#: admin/ptnns_options_secure.php:121
+msgid "attempts"
+msgstr "tentativi"
+
+#: admin/ptnns_options_secure.php:130
+msgid ""
+"Define how many times a user can fail login before beeing blocked from "
+"trying again to login; on every successful login, failed login attempts will "
+"be reset"
+msgstr ""
+"Definisci quante volte un utente può fallire l'autenticazione prima di che "
+"gli venga impedito di tentare nuovamente l'accesso; ad ogni accesso "
+"riuscito, i tentativi di accesso non riusciti verranno resettati"
+
+#: admin/ptnns_options_secure.php:143
+msgid "Failed login investigation period"
+msgstr "Periodo di analisi dell'accesso non riuscito"
+
+#: admin/ptnns_options_secure.php:255
+msgid ""
+"Define the length of the period of investigation, the time frame when the "
+"conceded login attempts set above should be surveilled"
+msgstr ""
+"Definisci la durata del periodo di indagine, l'intervallo di tempo in cui i "
+"tentativi di accesso concessi sopra devono essere sorvegliati"
+
+#: admin/ptnns_options_secure.php:269
+msgid "Warn user about login attempts left"
+msgstr "Avvisa l'utente dei tentativi di accesso rimasti"
+
+#: admin/ptnns_options_secure.php:299
+msgid ""
+"If switched on, the error displayed on failed login will be extended with a "
+"warning that informs user about the login attempts left"
+msgstr ""
+"Se l'opzione è attivata, l'errore visualizzato sull'accesso non riuscito "
+"verrà esteso con un avviso che informa l'utente sui tentativi di accesso "
+"rimasti"
+
+#: admin/ptnns_options_secure.php:311
+msgid "User lock down duration"
+msgstr "Durata blocco utente"
+
+#: admin/ptnns_options_secure.php:422
+msgid ""
+"Define how long the user have to be prevented from trying again to login, "
+"after he exceeded the limits defined above"
+msgstr ""
+"Definisci per quanto tempo all'utente deve essere impedito di tentare "
+"nuovamente di accedere, dopo aver superato i limiti definiti in precedenza"
+
+#: admin/ptnns_options_secure.php:435
+msgid "Lock down message"
+msgstr "Messaggio di blocco"
+
+#: admin/ptnns_options_secure.php:455
+msgid "please, enter a lock down message"
+msgstr "per favore, inserisci un messaggio di blocco"
+
+#: admin/ptnns_options_secure.php:462
+msgid ""
+"This custom login error will be shown to user locked down for having "
+"exceeded the limits defined above"
+msgstr ""
+"Questo errore di accesso personalizzato verrà visualizzato all'utente "
+"bloccato per aver superato i limiti definiti sopra"
+
+#: admin/ptnns_options_secure.php:475
+msgid "Permanently ban after"
+msgstr "Divieto permanente dopo"
+
+#: admin/ptnns_options_secure.php:540
+msgid "Never ban"
+msgstr "Non bloccare mai"
+
+#: admin/ptnns_options_secure.php:546
+msgid "lock down"
+msgstr "blocco"
+
+#: admin/ptnns_options_secure.php:551
+msgid "lock downs"
+msgstr "blocchi"
+
+#: admin/ptnns_options_secure.php:572
+msgid "users currently banned"
+msgstr "utenti attualmente bannati"
+
+#: admin/ptnns_options_secure.php:576
+msgid ""
+"Define after how many lock downs the user have to be permanently banned from "
+"trying again to login; be very carefull with this option, because this "
+"restriction cannot be canceled and will be applied to every user in the same "
+"Internet location (it is based on IP)"
+msgstr ""
+"Definisci dopo quanti blocchi all'utente deve essere permanentemente vietato "
+"di provare di nuovo ad autenticarsi; fai molta attenzione con questa "
+"opzione, perché questa restrizione non può essere annullata e verrà "
+"applicata a tutti gli utenti nella stessa posizione Internet (si basa su IP)"
+
+#: admin/ptnns_options_secure.php:590
+msgid "Permanently ban message"
+msgstr "Messaggio di divieto permanente"
+
+#: admin/ptnns_options_secure.php:610
+msgid "please, enter a permanently ban message"
+msgstr "per favore, inserisci un messaggio di divieto permanente"
+
+#: admin/ptnns_options_secure.php:617
+msgid ""
+"This custom ban error will be shown to user permanently banned for having "
+"exceeded the limits defined above"
+msgstr ""
+"Questo errore personalizzato di divieto verrà mostrato all'utente "
+"permanentemente bloccato per aver superato i limiti definiti sopra"
+
+#: admin/ptnns_options_secure.php:630
+msgid "XML-RPC"
+msgstr "XML-RPC"
+
+#: admin/ptnns_options_secure.php:639
+msgid ""
+"WordPress provides a default feature, based on XML-RPC protocol, that can be "
+"used for brute force attacks on your site: if you do not need it, it is "
+"better to disable it"
+msgstr ""
+"WordPress fornisce una funzione predefinita, basata sul protocollo XML-RPC, "
+"che può essere utilizzata per gli attacchi di forza bruta sul tuo sito: se "
+"non ne hai bisogno, è meglio disabilitarlo"
+
+#: admin/ptnns_options_secure.php:650
+msgid "Disable XML-RPC"
+msgstr "Disattiva XML-RPC"
+
+#: admin/ptnns_options_secure.php:680
+msgid ""
+"If switched on, WordPress feature, based on XML-RPC protocol, will be "
+"disabled, through htaccess (server side) and through a WordPress filter"
+msgstr ""
+"Se l'opzione è attivata, la funzione WordPress, basata sul protocollo XML-"
+"RPC, verrà disabilitata, tramite htaccess (lato server) e tramite un filtro "
+"WordPress"
+
+#: admin/ptnns_options_secure.php:693
+msgid "Author and Users REST API"
+msgstr "API REST Autore e utenti"
+
+#: admin/ptnns_options_secure.php:703
+#, php-format
+msgid ""
+"WordPress author page and WordPress %s publicly expose usernames of all "
+"registered user, including site owner or administrator which is normally"
+msgstr ""
+"La pagina dell'autore di WordPress %s espone il nome utente di ogni autore, "
+"incluso il proprietario del sito o l'amministratore che è normalmente"
+
+#: admin/ptnns_options_secure.php:704
+msgid "the first to be registered"
+msgstr "il primo ad essere registrato"
+
+#: admin/ptnns_options_secure.php:705
+msgid ""
+"If you do not hide these informations, hackers will have got half of the "
+"information needed to get administrative access to your website, since they "
+"only have to guess a password"
+msgstr ""
+"Se non nascondi queste informazioni, gli hacker avranno la metà delle "
+"informazioni necessarie per ottenere l'accesso amministrativo al tuo sito "
+"web, dal momento che devono solo indovinare una password"
+
+#: admin/ptnns_options_secure.php:716
+msgid "Disable archive author page"
+msgstr "Disabilitare la pagina di archivio dell'autore"
+
+#: admin/ptnns_options_secure.php:749
+msgid ""
+"If switched on, every author page, including yours, will be redirected to "
+"home url, through htaccess and through a WordPress safe redirection"
+msgstr ""
+"Se l'opzione è attivata, ogni pagina dell'autore, compresa la tua, verrà "
+"reindirizzato alla home page, attraverso htaccess e attraverso un "
+"reindirizzamento sicuro WordPress"
+
+#: admin/ptnns_options_secure.php:761
+msgid "Hide users in REST API"
+msgstr "Nascondere gli utenti nell'API REST"
+
+#: admin/ptnns_options_secure.php:794
+msgid ""
+"If switched on, users REST API will be hidden and an error message will be "
+"displayed instead"
+msgstr ""
+"Se l'opzione è attivata, l'API REST degli utenti verrà nascosta e verrà "
+"visualizzato un messaggio di errore"
+
+#: admin/ptnns_options_secure.php:807
+msgid "Custom Login Errors"
+msgstr "Errori di Autenticazione Personalizzati"
+
+#: admin/ptnns_options_secure.php:815
+msgid ""
+"Hiding WordPress default login error messages and displaying yours it is an "
+"important security care"
+msgstr ""
+"Nascondere i messaggi di errore predefiniti di WordPress e visualizzare i "
+"vostri è un'importante accorgimento di sicurezza"
+
+#: admin/ptnns_options_secure.php:826
+msgid "Invalid username message"
+msgstr "Messaggio per nome utente non valido"
+
+#: admin/ptnns_options_secure.php:846 admin/ptnns_options_secure.php:885
+#: admin/ptnns_options_secure.php:924 admin/ptnns_options_secure.php:963
+#: admin/ptnns_options_secure.php:1002
+msgid "default error will be shown"
+msgstr "verrà visualizzato l'errore predefinito"
+
+#: admin/ptnns_options_secure.php:853
+msgid ""
+"If filled out, this custom login error will be shown instead of WordPress "
+"default error for invalid username"
+msgstr ""
+"Se compilato, questo errore di autenticazione personalizzato verrà "
+"visualizzato al posto dell'errore predefinito di WordPress per nome utente "
+"non valido"
+
+#: admin/ptnns_options_secure.php:865
+msgid "Invalid email message"
+msgstr "Messaggio e-mail non valida"
+
+#: admin/ptnns_options_secure.php:892
+msgid ""
+"If filled out, this custom login error will be shown instead of WordPress "
+"default error for invalid email"
+msgstr ""
+"Se compilato, questo errore di accesso personalizzato verrà visualizzato al "
+"posto dell'errore predefinito di WordPress per e-mail non valida"
+
+#: admin/ptnns_options_secure.php:904
+msgid "Incorrect password message"
+msgstr "Messaggio password non corretta"
+
+#: admin/ptnns_options_secure.php:931
+msgid ""
+"If filled out, this custom login error will be shown instead of WordPress "
+"default error for incorrect password"
+msgstr ""
+"Se compilato, questo errore di accesso personalizzato verrà visualizzato al "
+"posto dell'errore predefinito di WordPress per la password non corretta"
+
+#: admin/ptnns_options_secure.php:943
+msgid "Empty username message"
+msgstr "Messaggio nome utente vuoto"
+
+#: admin/ptnns_options_secure.php:970
+msgid ""
+"If filled out, this custom login error will be shown instead of WordPress "
+"default error for empty username"
+msgstr ""
+"Se compilato, questo errore di accesso personalizzato verrà visualizzato al "
+"posto dell'errore predefinito di WordPress per il nome utente vuoto"
+
+#: admin/ptnns_options_secure.php:982
+msgid "Empty password message"
+msgstr "Messaggio password vuota"
+
+#: admin/ptnns_options_secure.php:1009
+msgid ""
+"If filled out, this custom login error will be shown instead of WordPress "
+"default error for empty password"
+msgstr ""
+"Se compilato, questo errore di accesso personalizzato verrà visualizzato al "
+"posto dell'errore predefinito di WordPress per la password vuota"
+
+#: admin/ptnns_options_secure.php:1022
+msgid "Notification"
+msgstr "Notifiche"
+
+#: admin/ptnns_options_secure.php:1030
+msgid "Get an email notification when the below events will occur"
+msgstr ""
+"Ricevi una notifica via email quando si verificheranno i seguenti eventi"
+
+#: admin/ptnns_options_secure.php:1042
+msgid "Notify success login"
+msgstr "Notifica l'autenticazione riuscita"
+
+#: admin/ptnns_options_secure.php:1074
+msgid "If switched on, every successful login wil be notified"
+msgstr "Se l'opzione è attivata, ogni autenticazione riuscita sarà notificata"
+
+#: admin/ptnns_options_secure.php:1087
+msgid "Notify change role"
+msgstr "Notifica il cambio di ruolo"
+
+#: admin/ptnns_options_secure.php:1119
+msgid "If switched on, you will be notified when a user role is changed"
+msgstr ""
+"Se l'opzione è attivata, si riceverà una notifica quando verrà modificato un "
+"ruolo utente"
+
+#: admin/ptnns_options_secure.php:1131
+msgid "Notify delete user"
+msgstr "Notifica la cancellazione di un utente"
+
+#: admin/ptnns_options_secure.php:1163
+msgid "If switched on, you will be notified when a user will be deleted"
+msgstr ""
+"Se l'opzione è attivata, si riceverà una notifica quando un utente verrà "
+"eliminato"
+
+#: admin/ptnns_options_secure.php:1176
+msgid "Notify register user"
+msgstr "Notifica la registrazione di un utente"
+
+#: admin/ptnns_options_secure.php:1208
+msgid "If switched on, you will be notified when a user will register"
+msgstr ""
+"Se l'opzione è attivata, si riceverà una notifica quando un utente si "
+"registrerà"
+
+#: admin/ptnns_options_secure.php:1220
+msgid "Notify locked down user"
+msgstr "Notifica utente bloccato"
+
+#: admin/ptnns_options_secure.php:1252
+msgid ""
+"If switched on, you will be notified when a user will be locked down for "
+"having exceeded failed login attempts conceded in Login Attempts Monitor "
+"section"
+msgstr ""
+"Se l'opzione è attivata, si riceverà una notifica quando un utente verrà "
+"bloccato per aver superato i tentativi di accesso non riusciti concessi "
+"nella sezione Monitoraggio Tentativi di Accesso"
+
+#: admin/ptnns_options_secure.php:1265
+msgid "Notify baned user"
+msgstr "Notifica utente bannato"
+
+#: admin/ptnns_options_secure.php:1297
+msgid ""
+"If switched on, you will be notified when a user will be baned for having "
+"exceeded failed login attempts conceded in Login Attempts Monitor section"
+msgstr ""
+"Se l'opzione è attivata, si riceverà una notifica quando un utente verrà "
+"bannato per aver superato i tentativi di accesso non riusciti concessi nella "
+"sezione Monitoraggio Tentativi di Accesso"
+
+#: admin/ptnns_options_secure.php:1310
+msgid "Notification address"
+msgstr "Indirizzo per le notifiche"
+
+#: admin/ptnns_options_secure.php:1333
+msgid "Define email address where notifications will be sent"
+msgstr ""
+"Definisci l'indirizzo di posta elettronica a cui verranno inviate le "
+"notifiche"
+
+#: admin/ptnns_save_enhance_options.php:130
+msgid ""
+"Splash page image does not contain a valid media gallery element. Please "
+"check it out"
+msgstr ""
+"L'immagine della Splash page non contiene un elemento della raccolta "
+"multimediale valido. Si prega di controllare"
+
+#: admin/ptnns_save_enhance_options.php:152
+msgid "Splash page image does not contain a valid image. Please check it out"
+msgstr ""
+"L'immagine della Splash page non contiene un'immagine valida. Si prega di "
+"controllare"
+
+#: admin/ptnns_save_enhance_options.php:377
+msgid "Thumbnails rebuild in progress"
+msgstr "Ricostruzione delle miniature in corso"
+
+#: admin/ptnns_save_enhance_options.php:378
+#: admin/ptnns_save_optimize_options.php:243
+#: public/includes/ptnns-enhance/ptnns_splash_page.php:62
+msgid "Please wait"
+msgstr "Attendere prego"
+
+#: admin/ptnns_save_enhance_options.php:380
+msgid "Thumbnails rebuild completed"
+msgstr "Ricostruzione delle miniature completata"
+
+#: admin/ptnns_save_enhance_options.php:381
+msgid "Good News, no thumbnail needs to be rebuilt"
+msgstr "Buone notizie, nessuna miniatura deve essere ricostruita"
+
+#: admin/ptnns_save_enhance_options.php:559
+msgid "SMTP test in progress"
+msgstr "Test SMTP in corso"
+
+#: admin/ptnns_save_enhance_options.php:560
+msgid "SMTP test completed successfully"
+msgstr "Test SMTP completato correttamente"
+
+#: admin/ptnns_save_enhance_options.php:561
+msgid "SMTP test failed, check settings"
+msgstr "Test SMTP non riuscito, controllare le impostazioni"
+
+#: admin/ptnns_save_enhance_options.php:601
+#: admin/ptnns_save_optimize_options.php:361
+#: admin/ptnns_save_secure_options.php:478
+msgid ""
+"One or more values entered were not accepted, so they were set to a default "
+"value. Please check it out"
+msgstr ""
+"Uno o più valori immessi non sono stati accettati, pertanto sono stati "
+"impostati su un valore predefinito. Si prega di controllare"
+
+#: admin/ptnns_save_enhance_options.php:638
+#: admin/ptnns_save_optimize_options.php:401
+#: admin/ptnns_save_secure_options.php:518
+msgid "Settings Saved"
+msgstr "Impostazioni Salvate"
+
+#: admin/ptnns_save_optimize_options.php:146
+msgid ""
+"Unique social image does not contain a valid media gallery element. Please "
+"check it out"
+msgstr ""
+"L'immagine social univoca non contiene un elemento della raccolta "
+"multimediale valido. Si prega di controllare"
+
+#: admin/ptnns_save_optimize_options.php:168
+msgid "Unique Social Image does not contain a valid image. Please check it out"
+msgstr ""
+"L'immagine social univoca non contiene un'immagine valida. Si prega di "
+"controllare"
+
+#: admin/ptnns_save_optimize_options.php:242
+msgid "Meta rebuild in progress"
+msgstr "Ricostruzione meta in corso"
+
+#: admin/ptnns_save_optimize_options.php:245
+msgid "Meta rebuild completed"
+msgstr "Ricostruzione meta completata"
+
+#: admin/ptnns_save_optimize_options.php:246
+msgid "Good News, no meta needs to be rebuilt"
+msgstr "Buone notizie, nessun meta deve essere ricostruito"
+
+#: admin/ptnns_save_secure_options.php:151
+msgid "You have exceeded the login attempts conceded, please try again later"
+msgstr "Hai superato i tentativi di accesso concessi, riprova più tardi"
+
+#: admin/ptnns_save_secure_options.php:187
+msgid "You are permanently banned from trying again to login"
+msgstr "Ti è permanentemente vietato provare di nuovo a effettuare il login"
+
+#: includes/ptnns_columns_functions.php:17
+#: includes/ptnns_columns_functions.php:40
+msgid "Optenhanse Summary"
+msgstr "Optenhanse Riassunto"
+
+#: includes/ptnns_columns_functions.php:129
+msgid "Description"
+msgstr "Descrizione"
+
+#: optenhanse.php:450 optenhanse.php:456
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: optenhanse.php:457
+msgid "PRO"
+msgstr "PRO"
+
+#: optenhanse.php:486
+msgid "Starting from Optenhanse 2.0, Optenhanse Pro plugin is no more needed"
+msgstr ""
+"A partire da Optenhanse 2.0, Optenhanse Pro plugin non è più necessario"
+
+#: optenhanse.php:486
+msgid "Please deactivate it and delete it"
+msgstr "Si prega di disattivarlo ed eliminarlo"
+
+#: optenhanse.php:513
+msgid ""
+"Some essential Optenhanse functions are no more available, since they are "
+"migrated to a set of brand-new plugins named NutsForPress. Please download "
+"and install them all from the <a href=\"https://wordpress.org/plugins/search/"
+"nutsforpress/\" title=\"NutsForPress\" alt\"NutsForPress\">WordPress "
+"repository</a>"
+msgstr ""
+"Alcune essenziali funzioni di Optenhanse non sono più disponibili, dal "
+"momento che sono state migrate verso una serie di plug-in nuovi di zecca "
+"chiamati NutsForPress. Si prega di scaricarli e installarli tutti dalla <a "
+"href=\"https://wordpress.org/plugins/search/nutsforpress/\" title="
+"\"NutsForPress\" alt\"nutsforpress\"=\"\">repository WordPress</a>"
+
+#: public/includes/ptnns-enhance/ptnns_splash_page.php:163
+#: public/includes/ptnns-enhance/ptnns_splash_page.php:165
+msgid "Username or Email"
+msgstr "Nome utente o email"
+
+#: public/includes/ptnns-enhance/ptnns_splash_page.php:169
+#: public/includes/ptnns-enhance/ptnns_splash_page.php:171
+msgid "Password"
+msgstr "Password"
+
+#: public/includes/ptnns-enhance/ptnns_splash_page.php:177
+msgid "Login"
+msgstr "Autenticazione"
+
+#: public/includes/ptnns-secure/ptnns_check_login.php:179
+msgid "User banned from"
+msgstr "Utente bloccato su"
+
+#: public/includes/ptnns-secure/ptnns_check_login.php:181
+msgid "A user was definitively banned for having exceeded lock downs conceeded"
+msgstr ""
+"Un utente è stato definitivamente bloccato per aver superato i tentativi di "
+"accesso"
+
+#: public/includes/ptnns-secure/ptnns_check_login.php:181
+#: public/includes/ptnns-secure/ptnns_check_login.php:220
+msgid "Last username used was"
+msgstr "L'ultimo nome utente utilizzato è stato"
+
+#: public/includes/ptnns-secure/ptnns_check_login.php:184
+#: public/includes/ptnns-secure/ptnns_check_login.php:223
+msgid "Anonymized user IP is"
+msgstr "L'IP utente anonimizzato è"
+
+#: public/includes/ptnns-secure/ptnns_check_login.php:218
+msgid "User locked down from"
+msgstr "Utente bloccato su"
+
+#: public/includes/ptnns-secure/ptnns_check_login.php:220
+msgid "A user was locked out for having exceeded login attempts conceeded"
+msgstr "Un utente è stato bloccato per aver superato i tentativi di accesso"
+
+#~ msgid ""
+#~ "If switched on, all this website email messages will use your SMTP server"
+#~ msgstr ""
+#~ "Se l'opzione è attivata, tutti i messaggi e-mail di questo sito Web "
+#~ "utilizzeranno il server SMTP"
+
+#~ msgid "none"
+#~ msgstr "nessuno"
+
+#~ msgid "SSL"
+#~ msgstr "SSL"
+
+#~ msgid "TLS"
+#~ msgstr "TLS"
+
+#~ msgid "Define the encryption used by your SMTP server"
+#~ msgstr ""
+#~ "Definisci il protocollo di crittografia utilizzato dal tuo server SMTP"
+
+#~ msgid "Define the port used by your SMTP server"
+#~ msgstr "Definisci la porta utilizzata dal server SMTP"
+
+#~ msgid "for example"
+#~ msgstr "per esempio"
+
+#~ msgid "Define the address of your SMTP server"
+#~ msgstr "Definisci l'indirizzo del server SMTP"
+
+#~ msgid ""
+#~ "If filled out, this address will be used as sender address of all the "
+#~ "emails that will be sent by this website, overriding different settings "
+#~ "defined by other plugin"
+#~ msgstr ""
+#~ "Se compilato, questo indirizzo verrà utilizzato come indirizzo mittente "
+#~ "di tutte le e-mail che verranno inviate da questo sito web, "
+#~ "sovrascrivendo diverse impostazioni definite da altri plugin"
+
+#~ msgid ""
+#~ "If filled out, this name will be used as sender name of all the emails "
+#~ "that will be sent by this website, overriding different settings defined "
+#~ "by other plugin"
+#~ msgstr ""
+#~ "Se compilato, questo nome verrà utilizzato come nome del mittente di "
+#~ "tutte le e-mail che verranno inviate da questo sito web, sovrascrivendo "
+#~ "diverse impostazioni definite da altri plugin"
+
+#~ msgid "Disabled"
+#~ msgstr "Disabilitato"
+
+#~ msgid "Enabled"
+#~ msgstr "Abilitato"
+
+#~ msgid "Define if your SMTP server needs authentication"
+#~ msgstr "Definisci se il server SMTP necessita dell'autenticazione"
+
+#~ msgid "Define the authentication address for your SMTP server"
+#~ msgstr "Definisci l'indirizzo di autenticazione per il server SMTP"
+
+#~ msgid "password is set, fill this out only to change it"
+#~ msgstr "password inserita, compila solo per cambiarla"
+
+#~ msgid ""
+#~ "Define the authentication password for your SMTP server (password will be "
+#~ "encrypted and saved into database)"
+#~ msgstr ""
+#~ "Definisci la password di autenticazione per il server SMTP (la password "
+#~ "verrà crittografata e salvata nel database)"
+
+#~ msgid ""
+#~ "If switched on, when you will save settings, a test email will be sent in "
+#~ "order to check that all the settings above are correct"
+#~ msgstr ""
+#~ "Se l'opzione è attivata, quando si salvano le impostazioni, verrà inviata "
+#~ "un'e-mail di prova per verificare che tutte le impostazioni di cui sopra "
+#~ "siano corrette"
+
+#~ msgid ""
+#~ "Define the recipient email address to whom the test message will be sent"
+#~ msgstr ""
+#~ "Definisci l'indirizzo di posta elettronica del destinatario a cui verrà "
+#~ "inviato il messaggio di prova"
+
+#~ msgid "If switched on, you can define what to be displayed into"
+#~ msgstr ""
+#~ "Se l'opzione è attivata, è possibile definire cosa deve essere "
+#~ "visualizzato dentro"
+
+#~ msgid ""
+#~ "choose the perfect SEO title, to be used instead of page or post title"
+#~ msgstr ""
+#~ "scegli il titolo SEO perfetto, da utilizzare al posto del titolo della "
+#~ "pagina o del post"
+
+#~ msgid "If switched on, Search Engines will catch the content of"
+#~ msgstr ""
+#~ "Se l'opzione è attivata, i motori di ricerca utilizzeranno il contenuto "
+#~ "del"
+
+#~ msgid ""
+#~ "automatically added to pages and posts where the description field is "
+#~ "filled out"
+#~ msgstr ""
+#~ "automaticamente aggiunto alle pagine e ai post in cui il campo della "
+#~ "descrizione è compilato"
+
+#~ msgid ""
+#~ "If switched on, a checkbox will be displayed into every post or page "
+#~ "editor and, if flagged, a"
+#~ msgstr ""
+#~ "Se l'opzione è attivata, una casella di controllo viene mostrata "
+#~ "nell'editor di pagine e post e, se spuntata un"
+
+#~ msgid "will be added to the post or page header"
+#~ msgstr "viene aggiunto all'header della pagina o del post"
+
+#~ msgid ""
+#~ "If switched on, Facebook Opengraph tags will be automatically added to "
+#~ "HTML code"
+#~ msgstr ""
+#~ "Se l'opzione è attivata, i tag Opengraph di Facebook verranno aggiunti "
+#~ "automaticamente al codice HTML"
+
+#~ msgid ""
+#~ "If switched on, Twitter Card tags will be automatically added to HTML code"
+#~ msgstr ""
+#~ "Se l'opzione è attivata, i tag Twitter Card verranno aggiunti "
+#~ "automaticamente al codice HTML"
+
+#~ msgid ""
+#~ "Define an image to be used when no featured image is set into your post "
+#~ "or page; if you leave this field empty and no featured image is found, a "
+#~ "random image from your media gallery will be used"
+#~ msgstr ""
+#~ "Definisci un'immagine da utilizzare quando nessuna featured image è "
+#~ "impostata nel post o nella pagina; se lasci vuoto questo campo e non "
+#~ "viene trovata alcuna featured image, verrà utilizzata un'immagine casuale "
+#~ "dalla galleria multimediale"
+
+#, php-format
+#~ msgid "If switched on, a virtual file %s will be created"
+#~ msgstr "Se l'opzione è attivata, verrà creato un file virtuale %s"
+
+#, php-format
+#~ msgid "and the sitemap link will be added to WordPress virtual file %s"
+#~ msgstr ""
+#~ "e il link alla sitemap verrà aggiunto al file virtuale di WordPress %s"
+
+#~ msgid "The defined resolution will be used to resize on upload every image"
+#~ msgstr ""
+#~ "La risoluzione definita verrà utilizzata per ridimensionare al "
+#~ "caricamento ogni immagine"
+
+#~ msgid ""
+#~ "If switched on, all GIF images will be skipped from resizing, to prevent "
+#~ "animated gifs from losing animation"
+#~ msgstr ""
+#~ "Se l'opzione è attivata, tutte le immagini GIF verranno escluse dal "
+#~ "ridimensionamento, per evitare che le gif animate perdano l'animazione"
+
+#~ msgid ""
+#~ "The defined quality will be used to compress on upload every JPEG image "
+#~ "and related thumbnails"
+#~ msgstr ""
+#~ "La qualità definita verrà utilizzata per comprimere al caricamento ogni "
+#~ "immagine JPEG e le relative miniature"
+
+#~ msgid "Images rebuild in progress"
+#~ msgstr "Ricostruzione immagini in corso"
+
+#~ msgid "Images rebuild completed"
+#~ msgstr "Ricostruzione immagini completata"
+
+#~ msgid ""
+#~ "If switched on, when you will save settings, all your images will be "
+#~ "resized and all your JPEG images and thumbnails will be recompressed in "
+#~ "background, using the above settings"
+#~ msgstr ""
+#~ "Se l'opzione è attivata, quando si salvano le impostazioni, tutte le "
+#~ "immagini verranno ridimensionate e tutte le immagini JPEG e le miniature "
+#~ "verranno ricompresse in background, utilizzando le impostazioni di cui "
+#~ "sopra"
+
+#~ msgid ""
+#~ "If switched on, for new media uploaded \"description\", \"caption\" and "
+#~ "\"alt title\" will be automatically filled out with a cleaned up file "
+#~ "name content; for example, \"my_best_image.jpg\" will turn to \"my best "
+#~ "image\""
+#~ msgstr ""
+#~ "Se l'opzione è attivata, per i nuovi media caricati \"description\", "
+#~ "\"caption\" e \"alt title\" verranno compilati automaticamente con una "
+#~ "versione ripulita del nome del file; ad esempio, "
+#~ "\"la_mia_immagine_migliore.jpg\" si trasformerà in \"la mia immagine "
+#~ "migliore\""
+
+#~ msgid ""
+#~ "If switched on, when you save settings, all media with empty \"description"
+#~ "\", \"caption\" and \"alt title\" will be automatically filled out in "
+#~ "background with a cleaned up file name content"
+#~ msgstr ""
+#~ "Se l'opzione è attivata, quando si salvano le impostazioni, tutti i file "
+#~ "multimediali con \"descrizione\", \"didascalia\" e \"titolo alternativo\" "
+#~ "vuoti, verranno compilati automaticamente in background con una versione "
+#~ "ripulita del nome del file"
+
+#~ msgid "Chrome and Firefox Lazy Loading"
+#~ msgstr "Lazy loading di Chrome e Firefox"
+
+#~ msgid "Activate Chrome and Firefox image lazy loading"
+#~ msgstr "Attivare il lazy loading delle immagini per Chrome e Firefox"
+
+#~ msgid "Enable Chrome native lazy loading"
+#~ msgstr "Abilitare il lazy loading nativo di Chrome"
+
+#~ msgid ""
+#~ "If switched on, image lazy loading will be enabled on Chromium-based "
+#~ "browsers and Firefox"
+#~ msgstr ""
+#~ "Se l'opzione è attivata, il lazy loading delle immagini sarà abilitato "
+#~ "sui browser basati su Chromium e su Firefox"
+
+#~ msgid "in evvery post or page"
+#~ msgstr "a qualunque post o pagina"
+
+#~ msgid "title Content"
+#~ msgstr "Ttitolo"
+
+#~ msgid "Optimize, Enhance and Secure your WordPress website"
+#~ msgstr "Ottimizza, Migliora e Proteggi il tuo sito wordPress"
+
+#~ msgid "Optenhanse PRO Activation"
+#~ msgstr "Attivazione Optenhanse PRO"
+
+#~ msgid "Covid-19 emergency"
+#~ msgstr "Emergenza Covid-19"
+
+#~ msgid ""
+#~ "Optenhanse PRO - Single website is totally FREE for one week (until April "
+#~ "6th) using discount code \"OneWeekForFree\""
+#~ msgstr ""
+#~ "Optenhanse PRO - Licenza singola è totalmente GRATUITO per una settimana "
+#~ "(fino al 6 aprile) utilizzando il codice sconto \"OneWeekForFree\""
+
+#~ msgid ""
+#~ "Fill in this field, if you want to share a unique image for every post or "
+#~ "page. Leave this field empty to share the featured image related to each "
+#~ "post or page (or a random image, where featured image is not set)"
+#~ msgstr ""
+#~ "Compila questo campo, se vuoi condividere la medesima immagine per "
+#~ "ciascun post o pagina. Lascia vuoto questo campo per condividere "
+#~ "l'immagine in evidenza di ciascun post o pagina (o un'immagine casuale, "
+#~ "dove l'immagine in evidenza non è impostata)"
+
+#~ msgid "Activated"
+#~ msgstr "Attivato"
+
+#~ msgid "Author Archive Page"
+#~ msgstr "Pagina Archivio Autore"
+
+#~ msgid "including yours"
+#~ msgstr "compreso il tuo"
+
+#~ msgid ""
+#~ "Prevent bothering and repeated notices to be displayed into dashboard and "
+#~ "show only important notices"
+#~ msgstr ""
+#~ "Impesci che gli avvisi fastidiosi e ripetuti vengano visualizzati nella "
+#~ "dashboard e mostra solo gli avvisi importanti"
+
+#~ msgid "Please provide a valid token"
+#~ msgstr "Per favore fornisci un token valido"
+
+#~ msgid "License section token"
+#~ msgstr "Token della sezione Licenza"
+
+#~ msgid ""
+#~ "Do not let hackers to only guess your password to get complete access to "
+#~ "your site"
+#~ msgstr ""
+#~ "Non lasciare la possibilità agli hacker di indovinare solo la tua "
+#~ "password per ottenere l'accesso completo al tuo sito"
+
+#~ msgid ""
+#~ "If filled out, this name will be used as sender name of all the emails "
+#~ "that will be sent by this website, overriding other plugin settings"
+#~ msgstr ""
+#~ "Se compilato, questo nome verrà utilizzato come nome del mittente di "
+#~ "tutte le e-mail che verranno inviate da questo sito web, sovrascrivendo "
+#~ "diverse impostazioni definite da altri plugin"
+
+#~ msgid ""
+#~ "Prevent this website mail messages to be directed into spam or junk mail, "
+#~ "sending them through your SMTP"
+#~ msgstr ""
+#~ "Impedire che i messaggi di posta elettronica di questo sito Web possano "
+#~ "finire nello spam o nella posta indesiderata, inviandoli tramite SMTP"
+
+#~ msgid "Smtp test in progress"
+#~ msgstr "Test SMTP in corso"
+
+#, fuzzy
+#~ msgid "Smtp test completed successfully"
+#~ msgstr "Test Smtp completato correttamente"
+
+#, fuzzy
+#~ msgid "Smtp test failed, check settings"
+#~ msgstr "Test Smtp non riuscito, controllare le impostazioni"
+
+#~ msgid "Custom preview in SERP through the description tag"
+#~ msgstr "Anteprima personalizzata nella SERP attraverso il tag description"
+
+#~ msgid "All fields are required"
+#~ msgstr "Tutti i campi sono obbligatori"
+
+#~ msgid "plugin deactivated"
+#~ msgstr "plugin disattivato"
+
+#~ msgid "Login attempt without clicking button to login to"
+#~ msgstr "Tentativo di accesso senza pressione del  pulsante di login a"
+
+#~ msgid ""
+#~ "A user trying to login without clicking the login button was locked out, "
+#~ "blacklisted and redirected to homepage, while he was trying to login with "
+#~ "username"
+#~ msgstr ""
+#~ "Un utente che sta tentando di accedere senza premere il bottone di login "
+#~ "è stato bloccato, inserito nella blacklist e reindirizzato alla homepage, "
+#~ "mentre tentava di autenticarsi con username"
+
+#~ msgid "City"
+#~ msgstr "Città"
+
+#~ msgid "Country"
+#~ msgstr "Nazione"
+
+#~ msgid "failed"
+#~ msgstr "ha fallito"
+
+#~ msgid "and so it is now banned for the next"
+#~ msgstr "e quindi viene bloccato per i prossimi"
+
+#~ msgid "Only authenticated users can access the REST API."
+#~ msgstr "Solo gli utenti autenticati possono accedere alle REST API."
+
+#~ msgid "administrator"
+#~ msgstr "amministratore"
+
+#~ msgid "editor"
+#~ msgstr "editore"
+
+#~ msgid "author"
+#~ msgstr "autore"
+
+#~ msgid "contributor"
+#~ msgstr "contributore"
+
+#~ msgid "subscriber"
+#~ msgstr "sottoscrittore"
+
+#~ msgid "user"
+#~ msgstr "utente"
+
+#~ msgid "and role of"
+#~ msgstr "e ruolo di"
+
+#~ msgid "not located"
+#~ msgstr "non localizzato"
+
+#~ msgid "WP Login Tool Options"
+#~ msgstr "Impostazioni di WP Login Tool"
+
+#~ msgid "Settings saved!"
+#~ msgstr "Impostazioni salvate!"
+
+#~ msgid ""
+#~ "Your country has been automatically excluded from the list of countries "
+#~ "below, otherwise you will not login anymore"
+#~ msgstr ""
+#~ "La tua nazione è stata automaticamente esclusa dalla lista di nazioni qui "
+#~ "sotto, altrimenti non potresti più autenticarti"
+
+#~ msgid "Please, provide a valid email address in order to turn notifications"
+#~ msgstr ""
+#~ "Per favore, fornisci un indirizzo email valido al fine di attivare le "
+#~ "notifiche"
+
+#~ msgid ""
+#~ "A problem occurred with the IP geolocation service, country protection "
+#~ "function cannot be enabled"
+#~ msgstr ""
+#~ "A causa di un problema con il servizio di geolocalizzazione IP, la "
+#~ "protezione per nazione non più essere attivata"
+
+#~ msgid "Save"
+#~ msgstr "Salva"
+
+#~ msgid ""
+#~ "all the seleceted notifications below will ben sent to this email addresss"
+#~ msgstr ""
+#~ "tutte le notifiche selezionate qui sotto saranno inviate a questo "
+#~ "indirizzo email"
+
+#~ msgid "Notify every successful login by"
+#~ msgstr "Invia una notifica ad ogni autenticazione di"
+
+#~ msgid "everyone, included custom roles"
+#~ msgstr "chiunque, compresi ruoli custom"
+
+#~ msgid "contributors, authors, editors or admins"
+#~ msgstr "contributori, autori, editori o amministratori"
+
+#~ msgid "authors, editors or admins"
+#~ msgstr "autori, editori o amministratori"
+
+#~ msgid "editors or admins"
+#~ msgstr "editori o amministratori"
+
+#~ msgid "admins only"
+#~ msgstr "amministratori solamente"
+
+#~ msgid ""
+#~ "if checked, every successful login for the selected roles will be notified"
+#~ msgstr ""
+#~ "se selezionato, agni autenticazione riuscita per i ruoli indicati sarà "
+#~ "notificata"
+
+#~ msgid "When a user fails"
+#~ msgstr "Quando un utente fallisce"
+
+#~ msgid ""
+#~ "login attempts, show him a 404 page instead of the login page for the next"
+#~ msgstr ""
+#~ "tentativi di autenticazione, mostragli una pagina 404 anziché la pagina "
+#~ "di login per i successivi"
+
+#~ msgid ""
+#~ "if checked, a 404 page is displayed, for the selected lapse of time, to "
+#~ "visitors that exceeded the granted login attempts"
+#~ msgstr ""
+#~ "se selezionato, viene mostrata una pagina 404, per il periodo di tempo "
+#~ "indicato, ai visitatori che eccedono i tentativi di login concessi"
+
+#~ msgid "Notify me when the above event happens"
+#~ msgstr "Inviami una notifica quando l'evento qui sopra si verifica"
+
+#~ msgid ""
+#~ "When a user attempts to login without clicking login button, lock the "
+#~ "login process, add the IP to the blacklist and, on every future login "
+#~ "attempt, display a 404 page instead of the login page"
+#~ msgstr ""
+#~ "Quando un utente tenta di autenticarsi senza premere il bottone di login, "
+#~ "blocca la procedura di autenticazione, aggiungi l'IP alla blacklist e, ad "
+#~ "ogni successivo tentativo di accesso, visualizza una pagina 404 anziché "
+#~ "la pagina di accesso"
+
+#~ msgid ""
+#~ "if checked, it prevents authentication to users that are trying to login "
+#~ "in an alternative way rather than pressing the login button, it adds them "
+#~ "to a blacklist and, while they are blacklisted, it shows them a 404 page "
+#~ "instead of the login form"
+#~ msgstr ""
+#~ "se selezionato, impedisce l'autenticazione agli utenti che stanno "
+#~ "cercando di effettuare l'accesso con una modalità diversa rispetto alla "
+#~ "pressione del pulsante di login, li aggiunge ad una blacklist e, finché "
+#~ "sono presenti nella blacklist, mostra una pagina 404 invece del form di "
+#~ "autenticazione"
+
+#~ msgid "if checked, XMLRPC and REST API are disabled"
+#~ msgstr "se selezionato, XMLRPC e REST API vengono disabilitati"
+
+#~ msgid "Prevent visitors from these countries to complete the login attempt"
+#~ msgstr ""
+#~ "Impedisci di completare il tentativo di autenticazione ai visitatori "
+#~ "provenienti da queste nazioni"
+
+#~ msgid "select all"
+#~ msgstr "seleziona tutto"
+
+#~ msgid "unselect all"
+#~ msgstr "deseleziona tutto"
+
+#~ msgid ""
+#~ "when the login button is clicked, a 404 page is displayed to every "
+#~ "visitor from the countries selected below"
+#~ msgstr ""
+#~ "quando viene premuto il pulsante di login, una pagina 404 viene "
+#~ "visualizzata a tutti i visitatori provenienti dalle nazioni selezionate "
+#~ "sotto"
+
+#~ msgid "WP Login Tool Statistics"
+#~ msgstr "Statistiche di WP Login Tool"
+
+#~ msgid ""
+#~ "Last ten users blacklisted for having attempted to login without having "
+#~ "clicked the login button"
+#~ msgstr ""
+#~ "Ultimi dieci utenti inseriti nella blacklist per avere tentato di "
+#~ "autenticarsi senza aver premuto il bottone di login"
+
+#~ msgid "DATE"
+#~ msgstr "DATA"
+
+#~ msgid "COUNTRY"
+#~ msgstr "NAZIONE"
+
+#~ msgid "CITY"
+#~ msgstr "CITTÀ"
+
+#~ msgid "ACTION"
+#~ msgstr "AZIONE"
+
+#~ msgid "No entries found"
+#~ msgstr "Nessun risultato individuato"
+
+#~ msgid "USERNAME"
+#~ msgstr "NOME UTENTE"
+
+#~ msgid "ATTEMPTS"
+#~ msgstr "TENTATIVI"
+
+#~ msgid "Last ten users coming from locked out countries that tried to login"
+#~ msgstr ""
+#~ "Ultimi dieci utenti provenienti da nazioni bloccate che abbiano provato "
+#~ "ad autenticarsi"
+
+#~ msgid "USER"
+#~ msgstr "NOME UTENTE"
+
+#~ msgid "The ten most locked countries"
+#~ msgstr "Le dieci nazioni più bloccate"
+
+#~ msgid "LOCKS"
+#~ msgstr "BLOCCHI"
+
+#~ msgid "Change your permalinks sctructure into \"pretty permalinks\""
+#~ msgstr "Cambia la struttura dei permalinks in \"pretty permalinks\""
+
+#~ msgid "in order to use this plugin"
+#~ msgstr "per poter usare questo plugin"
+
+#~ msgid "everyone"
+#~ msgstr "chiunque"
+
+#~ msgid "PAGE"
+#~ msgstr "PAGINA"
+
+#~ msgid "Last ten blacklisted users"
+#~ msgstr "Ultimi dieci utenti inseriti nella blacklist"
+
+#~ msgid "Last ten country locked users"
+#~ msgstr "Ultime dieci nazioni di provenienza di utenti bloccati"
+
+#~ msgid "Top ten countries locked"
+#~ msgstr "Dieci nazioni più bloccate"
+
+#~ msgid ""
+#~ "when the login button is clicked, a 404 page is displayed to every "
+#~ "visitor from the countries selected below."
+#~ msgstr ""
+#~ "quando viene premuto il pulsante di login, una pagina 404 viene "
+#~ "visualizzata a tutti i visitatori provenienti dalle nazioni selezionate "
+#~ "sotto"
+
+#~ msgid ""
+#~ "when the login form is submitted, a 404 page is displayed to every "
+#~ "visitor from the countries selected below."
+#~ msgstr "quando il form di "
+
+#~ msgid "Disallow visitors from these countries to login"
+#~ msgstr ""
+#~ "Impedisci ai visitatori provenienti da queste nazioni di autenticarsi"
+
+#~ msgid ""
+#~ "instead of the login page, a 404 page is displayed to every visitor from "
+#~ "the countries selected below "
+#~ msgstr ""
+#~ "al posto della pagina di autenticazione, una pagina 404 viene mostrata ad "
+#~ "ogni visitatore proveniente dalle nazioni sotto indicate"
+
+#~ msgid ""
+#~ "A supposed not-human user was locked out, blacklisted and redirected to "
+#~ "homepage, since he was trying to login with username"
+#~ msgstr ""
+#~ "Un utente, probabilmente non umano, è stato bloccato, inserito nella "
+#~ "blacklist e reindirizzato alla homepage, dato che stava tentando di "
+#~ "accedere con username"
+
+#~ msgid "without clicking the login button"
+#~ msgstr "senza avere premuto il pulsante di login"
+
+#~ msgid ""
+#~ "Notify if a supposed not-human user attempts to login, lock the login "
+#~ "process, add the IP to the blacklist and, on every future login attempt, "
+#~ "display a 404 page instead of the login page "
+#~ msgstr ""
+#~ "Invia una notifica se un utente probabilmente non umano tenta di "
+#~ "autenticarsi, blocca la procedura di autenticazione, aggiunge l'IP alla "
+#~ "blacklist e, ad ogni successivo tentativo di accesso, visualizza una "
+#~ "pagina 404 anziché la pagina di accesso"
+
+#~ msgid ""
+#~ "The API key you entered is not valid, so you can't exclude visitors by "
+#~ "country. Please check API key or obtain a new one from here"
+#~ msgstr ""
+#~ "La chiave API inserita non è valida, quindi non puoi escludere i "
+#~ "visitatori per nazione. Per favore, controlla la chiave API oppure "
+#~ "ottienine una nuova da qui"
+
+#~ msgid ""
+#~ "In order to use this feature, you must enter a free API key that you can "
+#~ "easily obtain from here"
+#~ msgstr ""
+#~ "Per poter utilizzare questa funzione, devi inserire una chiave API "
+#~ "gratuita che puoi facilmente ottenere da qui"
+
+#~ msgid "Display a 404 page after"
+#~ msgstr "Mostra una pagina 404 dopo"
+
+#~ msgid "failed login attempts, prevent user from retrying for"
+#~ msgstr ""
+#~ "tentativi di autenticazione falliti, impedisci all'utente di ritentare "
+#~ "l'accesso per"
+
+#~ msgid "minutes and notify it"
+#~ msgstr "minuti e invia una notifica"
+
+#~ msgid ""
+#~ "Enable protection from supposed not-human login attempts, blacklist and "
+#~ "notify"
+#~ msgstr ""
+#~ "Attiva la protezione da tentativi di accesso da utenti presumibilmente "
+#~ "non umani, aggiungi alla blacklist e notifica"
+
+#~ msgid ""
+#~ "if checked, it prevents authentication to users that are trying to login "
+#~ "in an alternative way rather than pressing the login button, it redirects "
+#~ "them to the homepage and it registers the user IP into a blacklist table"
+#~ msgstr ""
+#~ "se selezionato, impedisce l'autenticazione a utenti che stanno tentando "
+#~ "di autenticarsi con metodi alternativi, rispetto alla pressione del "
+#~ "bottone di login, li reindirizza alla homepage e registra l'IP "
+#~ "dell'utente nella blacklist"
+
+#~ msgid ""
+#~ "Please, provide a valid email address in order to turn on successful "
+#~ "login notifications"
+#~ msgstr ""
+#~ "Per favore, inserisci un indirizzo email valido per attivare le notifiche "
+#~ "di accesso riuscito"
+
+#~ msgid ""
+#~ "Please, provide a valid email address in order to turn on failed login "
+#~ "attempt notifications"
+#~ msgstr ""
+#~ "Per favore, inserisci un indirizzo email valido per attivare le notifiche "
+#~ "di errore di accesso"
+
+#~ msgid "Notify successful login to this email address"
+#~ msgstr "Invia una notifica di accesso riuscito a questo indirizzo email"
+
+#~ msgid ""
+#~ "if checked, every successful login will be notified to the mail address "
+#~ "recipient"
+#~ msgstr ""
+#~ "se selezionato, ogni accesso riuscito sarà notificato all'indirizzo email "
+#~ "del destinatario "
+
+#~ msgid "minutes and notify to this email address"
+#~ msgstr "minuti e invia una notifica a questo indirizzo email"
+
+#~ msgid ""
+#~ "if checked, every failed login attempt will be notified to the mail "
+#~ "address recipient"
+#~ msgstr ""
+#~ "se selezionato, ogni accesso fallito sarà notificato all'indirizzo email "
+#~ "del destinatario "
+
+#~ msgid ""
+#~ "a 404 page is shown to visitors from countries selected below instead of "
+#~ "the login page (both the default WordPress login page and the custom "
+#~ "login page above become unreachable)"
+#~ msgstr ""
+#~ "una pagina 404 viene mostrata ai visitatori provenienti dalle nazioni "
+#~ "selezionate qui sotto al posto della pagina di accesso (sia la normale "
+#~ "pagina di accesso di WordPress che la pagina di accesso alternativa qui "
+#~ "sopra diventano irraggiungibili)"
+
+#~ msgid ""
+#~ "The choosen login url is not admitted, since it is reserved to WordPress"
+#~ msgstr ""
+#~ "La url della pagina di accesso indicata non è ammessa, perché è riservata "
+#~ "a WordPress"
+
+#~ msgid "Hide WordPress default login page and move it to"
+#~ msgstr ""
+#~ "Nascondi la normale pagina di autenticazione di WordPress e spostala qui"
+
+#~ msgid ""
+#~ "if checked, WordPress login page is displayed only at the custom url above"
+#~ msgstr ""
+#~ "se selezionato, la pagina di accesso di WordPress è visibile unicamente "
+#~ "alla url personalizzata indicata sopra"
+
+#~ msgid "Failed Login on"
+#~ msgstr "Autenticazione fallita su"
+
+#~ msgid ""
+#~ "when checked, WordPress default login page returns a 404 page and is only "
+#~ "reachable at the custom url above"
+#~ msgstr ""
+#~ "se selezionato, la pagina di accesso di WordPress è visibile unicamente"
+
+#~ msgid ""
+#~ "when checked, WP Login Tool plugin disables XMLRPC and REST API to reduce "
+#~ "chanche to log in to brute-force attackers "
+#~ msgstr "se selezionato, WP Login Tool plugin disattiva XMLRPC e REST API"
+
+#~ msgid "If you like this plugin, please"
+#~ msgstr "Se ti piace questo plugin, per cortesia"
+
+#~ msgid "rate it with five stars"
+#~ msgstr "votalo con cinque stelle"
+
+#~ msgid "Also, in order to help me to keep it free, please consider to"
+#~ msgstr "Inoltre, per consentirmi di mantenerlo gratuito, per favore"
+
+#~ msgid ""
+#~ "Be very careful: without an alternative login page, visitors from the "
+#~ "countries selcted below will not login anymore"
+#~ msgstr ""
+#~ "Fai molta attenzione: senza una pagina di autenticazione alternativa, i "
+#~ "visitatori provenienti dalle nazioni selezionate sotto non avranno più "
+#~ "accesso"
+
+#~ msgid ""
+#~ "if checked, a 404 page is shown instead of the WordPress default login "
+#~ "page and a login form is placed into a safe login page at the custom url "
+#~ "above"
+#~ msgstr ""
+#~ "se selezionato, una pagina 404 viene visualizzata al posto della normale "
+#~ "pagina di accesso di WordPress e un modulo di autenticazione viene "
+#~ "posizionato in una pagina di autenticazione di sicurezza all'indirizzo "
+#~ "qui sopra"
+
+#~ msgid "Notify failed login attempt to this email address"
+#~ msgstr "Invia la notifica di accesso negato a questo indirizzo email"
+
+#~ msgid ""
+#~ "The choosen login url is not admitted, since it is a WordPress reserved "
+#~ "one"
+#~ msgstr ""
+#~ "La url della pagina di accesso indicata non è ammessa, perché è una di "
+#~ "quelle riservate a WordPress"
+
+#~ msgid ""
+#~ "Please, provide a valid email address in order to turn on successful "
+#~ "successful login notifications"
+#~ msgstr ""
+#~ "Per favore, inserisci un indirizzo email valido per attivare le notifiche "
+#~ "di accesso riuscito"
+
+#~ msgid "Hide login pages and move that to"
+#~ msgstr "Nascondi la pagina di autenticazione e spostala qui"
+
+#~ msgid "Disallow users from these countries to login"
+#~ msgstr "Impedisci agli utenti provenienti da queste nazioni di autenticarsi"
+
+#~ msgid ""
+#~ "a 404 page is shown to users from countries selected below instead of the "
+#~ "login page (both the default WordPress login page and the custom login "
+#~ "page above become unreachable)"
+#~ msgstr ""
+#~ "una pagina 404 viene mostrata ai visitatori provenienti dalle nazioni "
+#~ "selezionate qui sotto al posto della pagina di accesso (sia la normale "
+#~ "pagina di accesso di WordPress che la pagina di accesso alternativa qui "
+#~ "sopra diventano irraggiungibili)"
+
+#~ msgid "Change your permalinks sctructure"
+#~ msgstr "Cambia la struttura del permalinks"
+
+#~ msgid "Hide login page and move it to"
+#~ msgstr "Nascondi la pagina di login e visualizzala qui"
+
+#~ msgid ""
+#~ "when checked, WP Login Tool plugin hides WordPress default login page and "
+#~ "moves it to a custom alternative url"
+#~ msgstr ""
+#~ "se attivato, WP Login Tool nasconde la pagina di accesso standard di "
+#~ "WordPress e la visualizza ad una url alternativa e personalizzata"
+
+#~ msgid "Hide your custom login page to visitors from these countries"
+#~ msgstr ""
+#~ "Nascondi la tua pagina di accesso personalizzata ai visitatori "
+#~ "provenienti da queste nazioni"
+
+#~ msgid ""
+#~ "WP Login Tool shows a 404 page instead of your custom login page to "
+#~ "visitors from the countries selcted below"
+#~ msgstr ""
+#~ "WP Login Tool mostra una pagina 404 al posto della tua pagina di accesso "
+#~ "personalizzata ai visitatori provenienti dalle nazioni qui sotto "
+#~ "selezionate"
+
+#~ msgid "Register"
+#~ msgstr "Registrazione"
+
+#~ msgid "My Login Options"
+#~ msgstr "Opzioni di My Login"
+
+#~ msgid "Every login attempt is now redirected to"
+#~ msgstr "Qualunque tentativo di accesso è ora reindirizzato a"
+
+#~ msgid "a custom login page"
+#~ msgstr "una pagina personalizzata"
+
+#~ msgid ""
+#~ "Keep this in mind when you decide to use any redirect/maintenance "
+#~ "plugins, since some functions provided by \"My Login\" could conflict "
+#~ "with similar functions offered by similar plugins even so seriously that "
+#~ "you would not be able to access to WordPress any more! So, from now on, "
+#~ "if you need to put your site in \"maintenance mode\" use only the"
+#~ msgstr ""
+#~ "Tienilo in mente quando decidi di usare qualunque plugin di redirect o di "
+#~ "manutenzione, perché alcune funzioni di \"My Login\" possono entrare in "
+#~ "conflitto con funzioni similari di altri plugins, a tal punto che "
+#~ "potrebbe non essere più possibile accedere a WordPress! Quindi, d'ora in "
+#~ "poi, se hai bisogno di mettere il tuo sito in modalità di manutenzione, "
+#~ "usa unicamente la"
+
+#~ msgid "Offline Mode"
+#~ msgstr "Modalità Offline"
+
+#~ msgid "function provided by \"My Login"
+#~ msgstr "inclusa in \"My Login\""
+
+#~ msgid "General Settings"
+#~ msgstr "Opzioni Generali"
+
+#~ msgid "General Settings Options"
+#~ msgstr "Settaggio Opzioni Generali"
+
+#~ msgid "Offline Mode Options"
+#~ msgstr "Opzioni Modalità Offline"
+
+#~ msgid "Description of the principal function of \"My Login\" plugin"
+#~ msgstr "Descrizione delle principali funzioni del plugin \"My Login\""
+
+#~ msgid "Now on your website you have these new pages"
+#~ msgstr "Ora sul tuo sito web sono presenti queste nuove pagine"
+
+#~ msgid "where users can login"
+#~ msgstr "dove gli utenti possono autenticarsi"
+
+#~ msgid "where users can register while registration is allowed"
+#~ msgstr "dove gli utenti possono registrarsi se la registrazione è permessa"
+
+#~ msgid "where users can manage their own profile"
+#~ msgstr "dove gli utenti possono gestire i loro profili"
+
+#~ msgid ""
+#~ "Chose here \"My Login\" plugin General Settings; if you feel unsure, "
+#~ "leave the options unchanged"
+#~ msgstr ""
+#~ "Modifica le Opzioni Generali di \"My Login\"; se non sei sicuro, lasciale "
+#~ "invariate"
+
+#~ msgid "Display WordPress \"Admin Bar\" only to administrators"
+#~ msgstr "Mostra la \"Admin Bar\" di WordPress solo agli amministratori"
+
+#~ msgid ""
+#~ "if checked, hides admin bar to every logged user, except for "
+#~ "administrators"
+#~ msgstr ""
+#~ "se selezionato, nasconde la admin bar ad ogni utente autenticato, ad "
+#~ "eccezione degli amministratori"
+
+#~ msgid "Allow access to WordPress \"Dashboard\" only to administrators"
+#~ msgstr ""
+#~ "Permette l'accesso alla \"Bacheca\" di WordPress solo agli amministratori"
+
+#~ msgid ""
+#~ "if checked, redirects every logged user who requests the \"wp-admin\" "
+#~ "page to a"
+#~ msgstr ""
+#~ "se selezionato, ogni utente autenticato che tenti di accedere alla pagina "
+#~ "\"wp-admin\" viene indirizzato a una"
+
+#~ msgid "custom dashboard"
+#~ msgstr "bacheca personalizzata"
+
+#~ msgid "except for administrators"
+#~ msgstr "ad eccezione degli amministratori"
+
+#~ msgid "Use a unique custom \"Login\" page"
+#~ msgstr "Utilizza un'unica pagina di \"Login\" personalizzata"
+
+#~ msgid ""
+#~ "if checked, prevents not logged users from using \"wp-login.php\" page "
+#~ "and redirects them to a"
+#~ msgstr ""
+#~ "se selezionato, impedisce agli utenti non autenticati di accedere alla "
+#~ "pagina \"wp-login.php\" e li indirizza verso una"
+
+#~ msgid "Use a unique custom \"Registration\" page"
+#~ msgstr "Utilizza un'unica pagina di \"Registrazione\" personalizzata"
+
+#~ msgid "you can't change this option, because"
+#~ msgstr "non puoi modificare questa opzione, perchè"
+
+#~ msgid "don't allow new registrations"
+#~ msgstr "non consentono nuove registrazioni"
+
+#~ msgid ""
+#~ "if checked, prevents not logged users from using \"wp-login.php?"
+#~ "action=register\" page and redirects them to a"
+#~ msgstr ""
+#~ "se selezionato, impedisce agli utenti non autenticati di accedere alla "
+#~ "pagina \"wp-login.php?action=register\" e li indirizza verso una"
+
+#~ msgid "Redirect to this page after login"
+#~ msgstr "Reindirizza a questa pagina dopo l'autenticazione"
+
+#~ msgid "Homepage"
+#~ msgstr "Homepage"
+
+#~ msgid "select where to redirect users after a successful login"
+#~ msgstr ""
+#~ "seleziona dove indirizzare gli utenti dopo un'autenticazione riuscita"
+
+#~ msgid ""
+#~ "\"Offline Mode\" is a maintenance mode function wich doesn't interfere "
+#~ "with \"My Login\" plugin; if activated, every visitor will be redirected "
+#~ "to a courtesy page while the entire website will be hidden"
+#~ msgstr ""
+#~ "\"Modalità Offline\" è una funzione di manutenzione che non interferisce "
+#~ "con il plugin \"My Login\"; se attivata, nasconde il contenuto del sito "
+#~ "ed indirizza ogni visitatore ad una pagina di cortesia"
+
+#~ msgid "Activate Oflline Mode"
+#~ msgstr "Attiva la Modalità Offline"
+
+#~ msgid ""
+#~ "if checked, every page of this website redirect any visitor to a courtesy "
+#~ "page, except for logged users"
+#~ msgstr ""
+#~ "se selezionato, ogni pagina di questo sito indirizza ogni visitatore ad "
+#~ "una pagina di cortesia, ad eccezione degli utenti autenticati"
+
+#~ msgid "Background Image"
+#~ msgstr "Immagine di sfondo"
+
+#~ msgid ""
+#~ "you can't use this setting, because \"Offline Mode\" is currently "
+#~ "deactivated"
+#~ msgstr ""
+#~ "non puoi utilizzare questa opzione, perché in questo momento la "
+#~ "\"Modalità Offline\" non è attiva"
+
+#~ msgid "if set, the courtesy page shows this image as full size background"
+#~ msgstr ""
+#~ "se impostata, la pagina di cortesia mostra questa immagina come sfondo a "
+#~ "tutta pagina"
+
+#~ msgid ""
+#~ "The selected nickname belongs to another user, please choose another one"
+#~ msgstr ""
+#~ "Il soprannome indicato appartiene ad un altro utente, per favore scegline "
+#~ "un altro"
+
+#~ msgid "No user found"
+#~ msgstr "Nessun utente trovato"
+
+#~ msgid "User"
+#~ msgstr "Utente"
+
+#~ msgid "Change profile photo"
+#~ msgstr "Cambia immagine del profilo"
+
+#~ msgid "save profile to update photo"
+#~ msgstr "salva il profilo per aggiornare la tua immagine"
+
+#~ msgid "Upload profile photo"
+#~ msgstr "Carica l'immagine del profilo"
+
+#~ msgid "Public info, shown to all users"
+#~ msgstr "Informazioni pubbliche, visibili a tutti gli utenti"
+
+#~ msgid "Nickname"
+#~ msgstr "Soprannome"
+
+#~ msgid "Date of birth"
+#~ msgstr "Data di nascita"
+
+#~ msgid "Gender"
+#~ msgstr "Sesso"
+
+#~ msgid "Male"
+#~ msgstr "Uomo"
+
+#~ msgid "Female"
+#~ msgstr "Donna"
+
+#~ msgid "Registration date"
+#~ msgstr "Data di registrazione"
+
+#~ msgid "Private info, not publicly shown"
+#~ msgstr "Informazioni private, non visibili ad altri utenti"
+
+#~ msgid "You can login through"
+#~ msgstr "Puoi autenticarti tramite"
+
+#~ msgid "Click here"
+#~ msgstr "Clicca qui"
+
+#~ msgid "to view your public profile"
+#~ msgstr "per vedere il tuo profilo pubblico"
+
+#~ msgid "to enter WordPress dasboard"
+#~ msgstr "per accedere alla bacheca di WordPress"
+
+#~ msgid "Current email, not publicly shown"
+#~ msgstr "Attuale email, non visibile ad altri utenti"
+
+#~ msgid "Email"
+#~ msgstr "Indirizzo email"
+
+#~ msgid "Howdy"
+#~ msgstr "Ciao"
+
+#~ msgid "You are already logged in, you don't need to login again"
+#~ msgstr ""
+#~ "Hai già effettuato l'accesso, non è necessario autenticarsi nuovamente"
+
+#~ msgid "Log Out"
+#~ msgstr "Esci"
+
+#~ msgid "Sorry, this website is currently under maintenance"
+#~ msgstr "Spiacente, questo sito è attualmente in manutenzione"
+
+#~ msgid "Login here, if you are a registered user"
+#~ msgstr "Autenticati qui, se sei un utente registrato"
+
+#~ msgid "Username length must be at least six characters"
+#~ msgstr "La lunghezza dello username deve essere almeno di sei caratteri"
+
+#~ msgid "The entered username is not valid"
+#~ msgstr "Lo username inserito non è valido"
+
+#~ msgid "The entered username already exists"
+#~ msgstr "Lo username inserito esiste già"
+
+#~ msgid "Password length must be at least six characters"
+#~ msgstr "La lunghezza della password deve essere almeno di sei caratteri"
+
+#~ msgid "The entered email is not valid"
+#~ msgstr "L'email inserita non è valido"
+
+#~ msgid "The entered email already exist"
+#~ msgstr "L'email inserita risulta già registrata"
+
+#~ msgid "You are already register, you don't need to register again"
+#~ msgstr "Sei già registrato, non puoi registrarti nuovamente"
+
+#~ msgid "Username"
+#~ msgstr "Username"
+
+#~ msgid "User registration is currently not allowed"
+#~ msgstr "La registrazione non è al momento consentita"
+
+#~ msgid "Extra profile information"
+#~ msgstr "Informazioni aggiuntive del profilo"
+
+#~ msgid "Company"
+#~ msgstr "Società"
+
+#~ msgid "Job"
+#~ msgstr "Professione"
+
+#~ msgid "Phone"
+#~ msgstr "Telefono"
+
+#~ msgid "Public info, shown to all users:"
+#~ msgstr "Informazioni pubbliche, visibili a tutti gli utenti"
+
+#~ msgid "Private info, not publicly shown:"
+#~ msgstr "Informazioni private, non visualizzate pubblicamente"
+
+#~ msgid "Current email, not publicly shown:"
+#~ msgstr "Attuale email, non visualizzato pubblicamente"
+
+#~ msgid "Recover"
+#~ msgstr "Recupera"
+
+#~ msgid "Here"
+#~ msgstr "Qui"
+
+#~ msgid "you can find your public profile, as it is shown to other users."
+#~ msgstr ""
+#~ "trovi il tuo profilo pubblico, così come viene visualizzato agli altri "
+#~ "utenti"
+
+#~ msgid "Your login name is"
+#~ msgstr "Il tuo nome di autenticazione è"
+
+#~ msgid ""
+#~ "and it is not editable. Here you can complete your profile with the "
+#~ "informations below"
+#~ msgstr ""
+#~ "e non è modificabile. Qui puoi completare il tuo profilo con le "
+#~ "informazioni qui sotto"
+
+#~ msgid "Your "
+#~ msgstr "Il tuo"
+
+#~ msgid " Name"
+#~ msgstr "Nome"
+
+#~ msgid "Last name"
+#~ msgstr "Cognome"
+
+#~ msgid "profile"
+#~ msgstr "Profilo"
+
+#~ msgid "Rotate your device to login"
+#~ msgstr "Ruota il tuo device per autenticarti"
+
+#~ msgid "Profile"
+#~ msgstr "Profilo"
+
+#~ msgid ""
+#~ "where users can manage their own profile or display some other user "
+#~ "profile description"
+#~ msgstr ""
+#~ "dove gli utenti possono gestire il loro profilo e vedere il profilo di "
+#~ "altri utenti"
+
+#~ msgid "an extra page that you can use in the way you want or not use at all"
+#~ msgstr ""
+#~ "una pagina accessoria che puoi usare nel modo che vuoi, o non usare del "
+#~ "tutto"
+
+#~ msgid ""
+#~ "and it is not editable. Here you can complete your profile with the "
+#~ "informations below."
+#~ msgstr ""
+#~ "e non puoi cambiarlo. Qui sotto puoi completare il tuo profilo con le "
+#~ "informazioni indicate."
+
+#~ msgid "Info"
+#~ msgstr "Informazioni"
+
+#~ msgid ""
+#~ "In order to make \"My Login\" plugin behave as expected you need to "
+#~ "change your default permalink structure"
+#~ msgstr ""
+#~ "Affinché \"My Login\" plugin funzioni correttamente, devi cambiare la "
+#~ "struttura dei tuoi permalink"
+
+#~ msgid "PAY ATTENTION"
+#~ msgstr "ATTENZIONE"
+
+#~ msgid ""
+#~ "In order to make \"My Login\" plugin behave as expected your permalinks "
+#~ "structure have to include \"postname\" into your urls."
+#~ msgstr ""
+#~ "Affinché \"My Login\" plugin funzioni correttamente, la struttura dei "
+#~ "permalinks deve includere il \"postname\" nella URL."
+
+#~ msgid "Changhe permalinks structure through"
+#~ msgstr "Cambia la struttura dei permalinks attraverso"
+
+#~ msgid "permalinks page"
+#~ msgstr "la pagina dei permalinks"
+
+#~ msgid "or push the button below to change it automatically to"
+#~ msgstr ""
+#~ "oppure premi il pulsante qui sotto per modificarla automaticamente in"
+
+#~ msgid "Change Permalinks Structure"
+#~ msgstr "Cambia la struttura dei permalinks"
+
+#~ msgid "You have logged in successfully."
+#~ msgstr "Hai effettuato l'accesso"
+
+#~ msgid "You are logged in already. No need to register again!"
+#~ msgstr ""
+#~ "Hai già effetuato l'accesso, non è necessario registrarsi nuovamente!"
+
+#~ msgid "User registration is currently not allowed."
+#~ msgstr "Attualmente la registrazione non è permessa."
+
+#~ msgid ""
+#~ "if checked, every page of this website redirect any visitor to a blank "
+#~ "login page, except for logged users"
+#~ msgstr ""
+#~ "se selezionato, ogni pagina di questo sito indirizza ogni visitatore ad "
+#~ "una pagina di cortesia, ad eccezione degli utenti autenticati"
+
+#~ msgid ""
+#~ "In order to make \"My Login\" plugin behave as expected your permalinks "
+#~ "structure have to include \"postname\" into your urls.</p>"
+#~ msgstr ""
+#~ "Affinché \"My Login\" plugin funzioni correttamente, la struttura dei "
+#~ "permalinks deve includere \"postname\" (nome dell'articolo o della "
+#~ "pagina) nella URL."
